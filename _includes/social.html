@@ -1,9 +1,16 @@
 {%- assign social = site.minima.social_links -%}
 
+<!-- <style>
+  img {
+    filter: opacity(65%)
+  }
+  </style> -->
+
 <ul class="social-media-list">
-  {%- if social.email -%}<span><a href="mailto:{{ social.email }}" target="_blank"> <img src="/assets/social-icons/mail2.png"> </a> &nbsp; </span>{%- endif -%}
-  {%- if social.gscholar -%}<span><a href="https://scholar.google.com/citations?user={{ social.gscholar }}=en" target="_blank"> <img src="/assets/social-icons/gscholar2.png"> </a> &nbsp; </span>{%- endif -%}
+  {%- if social.email -%}<span><a href="mailto:{{ social.email }}" target="_blank"> <img src="/assets/social-icons/mail.png"> </a> &nbsp; </span>{%- endif -%}
+  {%- if social.gscholar -%}<span><a href="https://scholar.google.com/citations?user={{ social.gscholar }}=en" target="_blank"> <img src="/assets/social-icons/gscholar.png"> </a> &nbsp; </span>{%- endif -%}
   {%- if social.github -%}<span><a href="https://github.com/{{ social.github }}" target="_blank"> <img src="/assets/social-icons/github.png"> </a> &nbsp; </span>{%- endif -%}
   {%- if social.linkedin -%}<span><a href="https://www.linkedin.com/in/{{ social.linkedin }}" target="_blank"> <img src="/assets/social-icons/linkedin.png"> </a></span>{%- endif -%}
   {%- if social.twitter -%}<span><a href="https://twitter.com/{{ social.twitter }}" target="_blank"> <img src="/assets/social-icons/twitter.png"> </a> </span>{%- endif -%}
 </ul>
+
