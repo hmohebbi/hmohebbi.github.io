@@ -75,7 +75,7 @@ _Note that using attention weights for this purpose can be misleading given that
 To show the usefulness of our proposed analysis method in revealing the role of token representations, thereby explaining probing results, we conduct our experiments on a set of surface, syntactic and semantic probing tasks. Based on the most attributed tokens, we then investigate the reasons behind performance variations across layers.
 
 ### Sentence Length
-In this surface-level task we probe the representation of a given sentence in order to estimate its size, i.e., the number of words (not tokens) in it. To this end, we used SentEval’s SentLen dataset, but changed the formulation from the original classification objective to a regression one which allows a better generalization due to its fine-grained setting. 
+In this surface-level task we probe the representation of a given sentence in order to estimate its size, i.e., the number of words (not tokens) in it. To this end, we used SentEval’s __SentLen__ dataset, but changed the formulation from the original classification objective to a regression one which allows a better generalization due to its fine-grained setting. 
 The diagnostic classifier receives average-pooled representation of a sentence as input and outputs a continuous number as an estimate for the input length.
 
 Rounding the regressed estimates and comparing them with the gold labels in the test set, we can observe a significant performance drop from 0.91 accuracy in the first layer to 0.44 in the last layer.
