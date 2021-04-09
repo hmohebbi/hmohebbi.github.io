@@ -31,4 +31,4 @@ Previously, I got my Bachelor’s degree in Computer Engineering from [Ferdowsi 
 
 ## <span style="color:#424242">News </span>
 
-* __Apr 2021__: Our pre-print intepretability work is ready! [Exploring the Role of BERT Token Representations to Explain Sentence Probing Results](https://arxiv.org/pdf/2104.01477.pdf)
+* __Apr 2021__: Our pre-print intepretability work is ready! [Exploring the Role of BERT Token Representations to Explain Sentence Probing Results](https://arxiv.org/abs/2104.01477)
