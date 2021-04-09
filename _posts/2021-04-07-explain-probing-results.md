@@ -7,28 +7,37 @@ author:
 - Ali Modarressi
 
 permalink: /blog/explain-probing-results
+
 ---
+<!-- See blockquote in _sass/minima/_base.scss to choose right color and font by Ali-->
 
 <img align="right" src="/resources/posts/tsne.png" width="375" height="180" >
 
+<span style="font-family:Roboto">
 This is a post for the paper [Exploring the Role of BERT Token Representations to Explain Sentence Probing Results](https://arxiv.org/pdf/2104.01477.pdf).
+</span>
 
+<span style="font-family:Roboto">
 we carry out an extensive gradient-based attribution analysis to explain probing performance results from the viewpoint of token representations. Based on a set of probing tasks we show that:
-* while most of the positional information is diminished through layers of BERT, sentence-ending tokens are partially responsible for carrying this knowledge to higher layers in the model.
-* BERT tends to encode verb tense and noun number information in the $$\texttt{##s}$$ token and that it can clearly distinguish
+</span>
+* <span style="font-family:Roboto">while most of the positional information is diminished through layers of BERT, sentence-ending tokens are partially responsible for carrying this knowledge to higher layers in the model.
+</span>
+* <span style="font-family:Roboto">BERT tends to encode verb tense and noun number information in the $$\texttt{##s}$$ token and that it can clearly distinguish
 the two usages of the token by separating them into distinct subspaces in the higher layers. 
-* abnormalities can be captured by specific token representations, e.g., in two consecutive swapped tokens or a coordinator between two swapped clauses.
+</span>
+* <span style="font-family:Roboto">abnormalities can be captured by specific token representations, e.g., in two consecutive swapped tokens or a coordinator between two swapped clauses.
+</span>
+<!-- A button here for "read paper" by Ali -->
 
 ---
 
 ## What's Wrong with Standard Probing?
-Probing is one of the popular analysis methods, often used for investigating the encoded knowledge in language models. This is typically carried out by training a set of diagnostic classifiers that predict a specific linguistic property based on the representa-
-tions obtained from different layers. 
+Probing is one of the popular analysis methods, often used for investigating the encoded knowledge in language models. This is typically carried out by training a set of diagnostic classifiers that predict a specific linguistic property based on the representations obtained from different layers. 
 
 Recent works in probing language models demonstrate that initial layers are responsible for encoding low-level linguistic information, such as part of speech and positional information, whereas intermediate layers are better at syntactic phenomena, such as syntactic tree depth or subject-verb agreement, while in general semantic information is spread across the entire model. 
 Despite elucidating the type of knowledge encoded in various layers, these studies do not go further to investigate the reasons behind the layer-wise behavior and __the role played by token representations__. Analyzing the shortcomings of pre-trained language models requires a scrutiny beyond the mere performance in a given probing task.
 
-In this paper, we extend the layer-wise analysis to the token level in search for distinct and meaningful subspaces in BERT’s representation space that can explain the performance trends in various probing tasks.
+So, we extend the layer-wise analysis to the token level in search for distinct and meaningful subspaces in BERT’s representation space that can explain the performance trends in various probing tasks.
 
 ## Methodology
 Our analytical study was mainly carried out on
@@ -45,7 +54,8 @@ Moreover, the mean pooling strategy simplifies our measuring of each token’s a
 
 We leveraged a gradient-based attribution method in order to enable an in-depth analysis of layer-wise representations with the objective of explaining probing performances. Specifically, __we are interested in computing the attribution of each input token to the output labels__. This is usually referred to as the __saliency__ score of an input token to classifier’s decision. 
 
-We adopt the method of Yuan et al. (2019) for our setting and compute the saliency score for the $$i^{\text{th}}$$ representation in layer $$l$$, i.e.,  $$h^l_i$$, as:
+We adopt the method of [Yuan et al. (2019)](https://ojs.aaai.org/index.php/AAAI/article/view/4517/4395) for our setting and compute the saliency score for the $$i^{\text{th}}$$ representation in layer $$l$$, i.e.,  $$h^l_i$$, as:
+<!-- Saliency extraction image by Ali -->
 
 $$
 \begin{equation}
@@ -54,14 +64,15 @@ $$
 \end{equation}
 $$
 
-where $$y^l_c$$ denotes the probability that the classifier assigns to class $c$ based on the $$l^{\text{th}}$$-layer representations.
+where $$y^l_c$$ denotes the probability that the classifier assigns to class $$c$$ based on the $$l^{\text{th}}$$-layer representations.
 Given that our aim is to explain the representations (rather than evaluating the classifier), we set $$c$$ in the equation as the correct label. This way, the scores reflect the contributions of individual input tokens in a sentence to the classification decision.
 
-
+<!-- to light color by Ali -->
 _Note that using attention weights for this purpose can be misleading given that raw attention weights do not necessarily correspond to the importance of individual token representations._
 
 ## Probing Explanation
-In what follows in this part, we use the attribution method to find those tokens that play the central role in different surface, syntactic and semantic probing tasks. Based on these tokens we then investigate the reasons behind performance variations across layers.
+<!-- In what follows in this part, we use the attribution method to find those tokens that play the central role in different surface, syntactic and semantic probing tasks. Based on these tokens we then investigate the reasons behind performance variations across layers. -->
+To show the usefulness of our proposed analysis method in revealing the role of token representations, thereby explaining probing results, we conduct our experiments on a set of surface, syntactic and semantic probing tasks. Based on the most attributed tokens, we then investigate the reasons behind performance variations across layers.
 
 ### Sentence Length
 In this surface-level task we probe the representation of a given sentence in order to estimate its size, i.e., the number of words (not tokens) in it. To this end, we used SentEval’s SentLen dataset, but changed the formulation from the original classification objective to a regression one which allows a better generalization due to its fine-grained setting. 
@@ -90,7 +101,7 @@ Colors indicate the corresponding token’s position in the sentence (darker col
 This analysis inspects BERT representations for grammatical number and tense information. For this experiment we used the __Tense__ and __ObjNum__ tasks: the former checks whether the main-clause verb is labeled as present or past, whereas the latter classifies the object according to its number, i.e., singular or plural. On both tasks, BERT preserves a consistently high performance (> 0.82 accuracy) across all layers.
 
 <br>
-> Articles and ending tokens (e.g., $$\texttt{##s}$$ and $$\texttt{##ed}$$ ) are key playmakers.
+> Articles and ending tokens (e.g., $$\texttt{##s}$$ and $$\texttt{##ed}$$ ) are key playmakers
 
 <img align="right" src="/resources/posts/Number_Tense_5LayerAttrib_4.png" width="370" height="330">
 Our Attribution analysis reveals that article words (e.g., $$“\texttt{a}”$$ and $$“\texttt{an}”$$) and the ending $$\texttt{##s}$$ token, which makes out-of-vocab plural words (or third person present verbs), are among the most attributed tokens in the ObjNum task. This shows that these tokens are mainly responsible for encoding object’s number information across layers. 
@@ -118,12 +129,21 @@ For this set of experiments, we opted for SentEval’s Bi-gram Shift and Coordin
 
 #### Token-level inversion
 Bi-gram Shift (__BShift__) checks the ability of a model to identify whether two adjacent words within a given sentence have been inverted. 
+Let’s look at the following sentences and corresponding labels from the test set:
+
+<!-- Need to be organized and light color by Ali-->
+<span style="font-family:Roboto"> He was interrupted by a knock at the door O
+</span>
+
+<span style="font-family:Roboto"> I felt like time my here was getting short . I
+</span>
 
 Probing results shows that the higher half layers of BERT can properly distinguish this peculiarity. Similarly to the previous experiments, we leveraged the gradient attribution method to figure out those tokens that were most effective in detecting the inverted sentences. Given that the dataset does not specify the inverted tokens, we reconstructed the inverted examples by randomly swapping two consecutive tokens in the original sentences of the test set, excluding the beginning of the sentences and punctuation marks.
 
 <img align="right" src="/resources/posts/bshift_heatmap.png" width="360">
 Our attribution analysis shows that swapping two consecutive words in a sentence results in a significant boost in the attribution scores of the inverted tokens. As an example, the subsequent figure depicts attribution scores of each token in a randomly sampled sentence from the test set across different layers. The classifier distinctively focuses on the token representations for the shifted words, while no such patterns exists for the original sentence.
 
+<!-- Boolean Mask and Saliency diagram by Ali-->
 To verify if this observation holds true for other instances in the test set, we carried out the following experiment.
 For each given sequence $$X$$ of $$n$$ tokens, we defined a boolean mask $$M =[m_1 , m_2 , ..., m_n]$$ which denotes the position of the
 inversion according to the following condition:
@@ -144,13 +164,22 @@ We observe that in altered sentences the correlation significantly grows over th
 <img align="right" src="/resources/posts/bshift_sim.png" width="366">
 We hypothesize that BERT implicitly encodes abnormalities in the representation of shifted tokens. To investigate this, we computed the cosine distance of each token to itself in the original and shifted sentences. This figure shows layer-wise statistics for both shifted and non-shifted tokens. __The trend for the shifted token distances highly correlates with that of probing performance, supporting our hypothesis of BERT encoding abnormalities in the shifted tokens.__
 
+<!-- Lighter color by Ali-->
 _To investigate the root cause of this, we took a step further and analyzed the building blocks of these representations, i.e., the self-attention mechanism (read [the paper](https://arxiv.org/pdf/2104.01477.pdf) for details)._
 
 #### Phrasal-level inversion
-The Coordination Inversion (__CoordInv__) task is a binary classification that contains sentences with two coordinated clausal conjoints (and only one coordinating conjunction). In half of the sentences the clauses’ order is inverted and the goal is to detect malformed sentences at phrasal level.
+The Coordination Inversion (__CoordInv__) task is a binary classification that contains sentences with two coordinated clausal conjoints (and only one coordinating conjunction). In half of the sentences the clauses’ order is inverted and the goal is to detect malformed sentences at phrasal level. Two examples of these malformed sentences are:
+
+<!-- Need to be organized and light color by Ali -->
+<span style="font-family:Roboto"> There was something to consider but he might be a prince . I
+</span>
+
+<span style="font-family:Roboto"> I waved to her as she blew me a kiss , and Jules dropped me off at my car in the school parking lot . I
+</span>
 
 BERT’s performance on this task increases through layers and then slightly decreases in the last three layers. We observed that the attribution scores for $$“\texttt{but}”$$ and $$“\texttt{and}”$$ coordinators to be among the highest and that these scores notably increase through layers. We hypothesize that BERT might implicitly encodes phrasal level abnormalities in specific token representations.
 
+<!-- remove boarders like previous bar plots by Ali -->
 <img align="center" src="/resources/posts/coord_bar_full.png">
 
 <br>

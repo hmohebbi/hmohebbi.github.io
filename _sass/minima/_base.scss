@@ -137,12 +137,17 @@ a {
 /**
  * Blockquotes
  */
+//  <style>
+//   blockquote{border-left: 4px solid #8d7edc;background-color: #f2f0ff; color: #7560e3}
+// </style>
 blockquote {
-  color: $brand-color;
-  border-left: 4px solid $border-color-01;
+  color: #7560e3;
+  border-left: 4px solid #8d7edc;
+  background-color: #f2f0ff;
   padding-left: $spacing-unit / 2;
   @include relative-font-size(1.125);
-  font-style: italic;
+  // font-style: italic;
+  font-family: 'Roboto';
 
   > :last-child {
     margin-bottom: 0;
