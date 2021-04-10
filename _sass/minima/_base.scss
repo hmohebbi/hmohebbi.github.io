@@ -141,13 +141,15 @@ a {
 //   blockquote{border-left: 4px solid #8d7edc;background-color: #f2f0ff; color: #7560e3}
 // </style>
 blockquote {
-  color: #7560e3;
-  border-left: 4px solid #8d7edc;
-  background-color: #f2f0ff;
+  color: #1178d0;
+  border-left: 4px solid #1178d0;
+  background-color: #f0f8ff;
+  font-weight: 300;
   padding-left: $spacing-unit / 2;
   @include relative-font-size(1.125);
   // font-style: italic;
   font-family: 'Roboto';
+  font-weight: 300;
 
   > :last-child {
     margin-bottom: 0;

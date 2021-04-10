@@ -9,25 +9,21 @@ author:
 permalink: /blog/explain-probing-results
 
 ---
-<!-- See blockquote in _sass/minima/_base.scss to choose right color and font by Ali-->
+<!-- See blockquote in _sass/minima/_base.scss to choose right color and font by Ali -- DONE (needs confirmation though) -->
 
 <img align="right" src="/resources/posts/tsne.png" width="375" height="180" >
 
-<span style="font-family:Roboto">
 This is a post for the paper [Exploring the Role of BERT Token Representations to Explain Sentence Probing Results](https://arxiv.org/pdf/2104.01477.pdf).
-</span>
 
-<span style="font-family:Roboto">
 we carry out an extensive gradient-based attribution analysis to explain probing performance results from the viewpoint of token representations. Based on a set of probing tasks we show that:
-</span>
-* <span style="font-family:Roboto">while most of the positional information is diminished through layers of BERT, sentence-ending tokens are partially responsible for carrying this knowledge to higher layers in the model.
-</span>
-* <span style="font-family:Roboto">BERT tends to encode verb tense and noun number information in the $$\texttt{##s}$$ token and that it can clearly distinguish
+* while most of the positional information is diminished through layers of BERT, sentence-ending tokens are partially responsible for carrying this knowledge to higher layers in the model.
+* BERT tends to encode verb tense and noun number information in the $$\texttt{##s}$$ token and that it can clearly distinguish
 the two usages of the token by separating them into distinct subspaces in the higher layers. 
-</span>
-* <span style="font-family:Roboto">abnormalities can be captured by specific token representations, e.g., in two consecutive swapped tokens or a coordinator between two swapped clauses.
-</span>
-<!-- A button here for "read paper" by Ali -->
+* abnormalities can be captured by specific token representations, e.g., in two consecutive swapped tokens or a coordinator between two swapped clauses.
+
+<!-- A button here for "read paper" by Ali -- DONE -->
+
+<a class="read-paper-button" href="https://arxiv.org/pdf/2104.01477.pdf">Read paper</a>
 
 ---
 
@@ -54,8 +50,10 @@ Moreover, the mean pooling strategy simplifies our measuring of each token’s a
 
 We leveraged a gradient-based attribution method in order to enable an in-depth analysis of layer-wise representations with the objective of explaining probing performances. Specifically, __we are interested in computing the attribution of each input token to the output labels__. This is usually referred to as the __saliency__ score of an input token to classifier’s decision. 
 
+<img align="center" src="/resources/posts/saliency_explanation_v2.png">
+
 We adopt the method of [Yuan et al. (2019)](https://ojs.aaai.org/index.php/AAAI/article/view/4517/4395) for our setting and compute the saliency score for the $$i^{\text{th}}$$ representation in layer $$l$$, i.e.,  $$h^l_i$$, as:
-<!-- Saliency extraction image by Ali -->
+<!-- Saliency extraction image by Ali -- DONE -->
 
 $$
 \begin{equation}
@@ -67,8 +65,9 @@ $$
 where $$y^l_c$$ denotes the probability that the classifier assigns to class $$c$$ based on the $$l^{\text{th}}$$-layer representations.
 Given that our aim is to explain the representations (rather than evaluating the classifier), we set $$c$$ in the equation as the correct label. This way, the scores reflect the contributions of individual input tokens in a sentence to the classification decision.
 
-<!-- to light color by Ali -->
-_Note that using attention weights for this purpose can be misleading given that raw attention weights do not necessarily correspond to the importance of individual token representations._
+<!-- to light color by Ali -- DONE -->
+<span class="note">
+_Note that using attention weights for this purpose can be misleading given that raw attention weights do not necessarily correspond to the importance of individual token representations._</span>
 
 ## Probing Explanation
 <!-- In what follows in this part, we use the attribution method to find those tokens that play the central role in different surface, syntactic and semantic probing tasks. Based on these tokens we then investigate the reasons behind performance variations across layers. -->
@@ -131,19 +130,26 @@ For this set of experiments, we opted for SentEval’s Bi-gram Shift and Coordin
 Bi-gram Shift (__BShift__) checks the ability of a model to identify whether two adjacent words within a given sentence have been inverted. 
 Let’s look at the following sentences and corresponding labels from the test set:
 
-<!-- Need to be organized and light color by Ali-->
-<span style="font-family:Roboto"> He was interrupted by a knock at the door O
-</span>
-
-<span style="font-family:Roboto"> I felt like time my here was getting short . I
-</span>
-
+<!-- Need to be organized and light color by Ali -- DONE -->
+<div style="text-align: center;">
+  <div style="background: #f0f0f0; display: inline-block; padding: 10px 24px">
+    <div style="font-family:Roboto"> He was interrupted by a knock at the door --> O<span style="color: #777777">riginal</span>
+    </div>
+    <div style="font-family:Roboto"> I felt like <span style="color: #de2347; font-weight: 700">time my</span> here was getting short . --> I<span style="color: #777777">nverted</span></div>
+  </div>
+</div>
+<br>
 Probing results shows that the higher half layers of BERT can properly distinguish this peculiarity. Similarly to the previous experiments, we leveraged the gradient attribution method to figure out those tokens that were most effective in detecting the inverted sentences. Given that the dataset does not specify the inverted tokens, we reconstructed the inverted examples by randomly swapping two consecutive tokens in the original sentences of the test set, excluding the beginning of the sentences and punctuation marks.
 
 <img align="right" src="/resources/posts/bshift_heatmap.png" width="360">
 Our attribution analysis shows that swapping two consecutive words in a sentence results in a significant boost in the attribution scores of the inverted tokens. As an example, the subsequent figure depicts attribution scores of each token in a randomly sampled sentence from the test set across different layers. The classifier distinctively focuses on the token representations for the shifted words, while no such patterns exists for the original sentence.
 
-<!-- Boolean Mask and Saliency diagram by Ali-->
+<br>
+<img align="center" style="max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;" src="/resources/posts/boolean_mask.png">
+
 To verify if this observation holds true for other instances in the test set, we carried out the following experiment.
 For each given sequence $$X$$ of $$n$$ tokens, we defined a boolean mask $$M =[m_1 , m_2 , ..., m_n]$$ which denotes the position of the
 inversion according to the following condition:
@@ -164,23 +170,29 @@ We observe that in altered sentences the correlation significantly grows over th
 <img align="right" src="/resources/posts/bshift_sim.png" width="366">
 We hypothesize that BERT implicitly encodes abnormalities in the representation of shifted tokens. To investigate this, we computed the cosine distance of each token to itself in the original and shifted sentences. This figure shows layer-wise statistics for both shifted and non-shifted tokens. __The trend for the shifted token distances highly correlates with that of probing performance, supporting our hypothesis of BERT encoding abnormalities in the shifted tokens.__
 
-<!-- Lighter color by Ali-->
-_To investigate the root cause of this, we took a step further and analyzed the building blocks of these representations, i.e., the self-attention mechanism (read [the paper](https://arxiv.org/pdf/2104.01477.pdf) for details)._
+<!-- Lighter color by Ali -- DONE -->
+<span class="note">
+_To investigate the root cause of this, we took a step further and analyzed the building blocks of these representations, i.e., the self-attention mechanism (read [the paper](https://arxiv.org/pdf/2104.01477.pdf) for details)._</span>
 
 #### Phrasal-level inversion
 The Coordination Inversion (__CoordInv__) task is a binary classification that contains sentences with two coordinated clausal conjoints (and only one coordinating conjunction). In half of the sentences the clauses’ order is inverted and the goal is to detect malformed sentences at phrasal level. Two examples of these malformed sentences are:
 
-<!-- Need to be organized and light color by Ali -->
-<span style="font-family:Roboto"> There was something to consider but he might be a prince . I
-</span>
-
-<span style="font-family:Roboto"> I waved to her as she blew me a kiss , and Jules dropped me off at my car in the school parking lot . I
-</span>
+<!-- Need to be organized and light color by Ali -- DONE -->
+<div style="text-align: center;">
+  <div style="background: #f0f0f0; display: inline-block; padding: 10px 24px">
+    <div> <span style="color: #2e50ce">There was something to consider</span> but <span style="color: #780086">he might be a prince</span> --> I<span style="color: #777777">nverted</span>
+    </div>
+    <div>  <span style="color: #2e50ce">I cut myself</span> and <span style="color: #780086">the glass broke</span> . --> I<span style="color: #777777">nverted</span></div>
+    <!-- Is this is a good comment? by Mohebbi-->
+    <div style="font-weight: 300; font-size:12px; color: #777777; padding-top: 10px">Both sentences would be correct if we just swap the blue and the purple clauses.</div>
+  </div>
+</div>
+<br>
 
 BERT’s performance on this task increases through layers and then slightly decreases in the last three layers. We observed that the attribution scores for $$“\texttt{but}”$$ and $$“\texttt{and}”$$ coordinators to be among the highest and that these scores notably increase through layers. We hypothesize that BERT might implicitly encodes phrasal level abnormalities in specific token representations.
 
-<!-- remove boarders like previous bar plots by Ali -->
-<img align="center" src="/resources/posts/coord_bar_full.png">
+<!-- remove boarders like previous bar plots by Ali -- DONE -->
+<img align="center" src="/resources/posts/coord_bar_full_edited.png">
 
 <br>
 > Odd Coordinator Representation
