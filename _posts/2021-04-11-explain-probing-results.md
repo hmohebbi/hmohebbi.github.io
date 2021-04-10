@@ -157,6 +157,7 @@ m_i =
   \end{cases}
 \end{equation}$$
 where $$V$$ is the set of all tokens in the shifted bi-gram ($$|V|\ge2$$, given BERT's sub-word tokenization).
+<img align="right" src="/resources/posts/bshift_corr.png" width="255">
 
 Then we computed the Spearman's rank correlation coefficient of the attribution scores with $$M$$ (a one-hot indicating shifted indices) for all examples in the test set across
 all layers.
