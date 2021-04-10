@@ -9,7 +9,6 @@ author:
 permalink: /blog/explain-probing-results
 
 ---
-<!-- See blockquote in _sass/minima/_base.scss to choose right color and font by Ali -- DONE (needs confirmation though) -->
 
 <img align="right" src="/resources/posts/tsne.png" width="375" height="180" >
 
@@ -20,8 +19,6 @@ we carry out an extensive gradient-based attribution analysis to explain probing
 * BERT tends to encode verb tense and noun number information in the $$\texttt{##s}$$ token and that it can clearly distinguish
 the two usages of the token by separating them into distinct subspaces in the higher layers. 
 * abnormalities can be captured by specific token representations, e.g., in two consecutive swapped tokens or a coordinator between two swapped clauses.
-
-<!-- A button here for "read paper" by Ali -- DONE -->
 
 <a class="read-paper-button" href="https://arxiv.org/pdf/2104.01477.pdf">Read paper</a>
 
@@ -100,7 +97,7 @@ Colors indicate the corresponding token’s position in the sentence (darker col
 This analysis inspects BERT representations for grammatical number and tense information. For this experiment we used the __Tense__ and __ObjNum__ tasks: the former checks whether the main-clause verb is labeled as present or past, whereas the latter classifies the object according to its number, i.e., singular or plural. On both tasks, BERT preserves a consistently high performance (> 0.82 accuracy) across all layers.
 
 <br>
-> Articles and ending tokens (e.g., $$\texttt{##s}$$ and $$\texttt{##ed}$$ ) are key playmakers
+> Articles and ending tokens (e.g., $$\texttt{##s}$$ and $$\texttt{##ed}$$ ) are key playmakers.
 
 <img align="right" src="/resources/posts/Number_Tense_5LayerAttrib_4.png" width="370" height="330">
 Our Attribution analysis reveals that article words (e.g., $$“\texttt{a}”$$ and $$“\texttt{an}”$$) and the ending $$\texttt{##s}$$ token, which makes out-of-vocab plural words (or third person present verbs), are among the most attributed tokens in the ObjNum task. This shows that these tokens are mainly responsible for encoding object’s number information across layers. 
@@ -130,7 +127,6 @@ For this set of experiments, we opted for SentEval’s Bi-gram Shift and Coordin
 Bi-gram Shift (__BShift__) checks the ability of a model to identify whether two adjacent words within a given sentence have been inverted. 
 Let’s look at the following sentences and corresponding labels from the test set:
 
-<!-- Need to be organized and light color by Ali -- DONE -->
 <div style="text-align: center;">
   <div style="background: #f0f0f0; display: inline-block; padding: 10px 24px">
     <div style="font-family:Roboto"> He was interrupted by a knock at the door --> O<span style="color: #777777">riginal</span>
@@ -161,7 +157,6 @@ m_i =
   \end{cases}
 \end{equation}$$
 where $$V$$ is the set of all tokens in the shifted bi-gram ($$|V|\ge2$$, given BERT's sub-word tokenization).
-<img align="right" src="/resources/posts/bshift_corr.png" width="255">
 
 Then we computed the Spearman's rank correlation coefficient of the attribution scores with $$M$$ (a one-hot indicating shifted indices) for all examples in the test set across
 all layers.
@@ -170,20 +165,17 @@ We observe that in altered sentences the correlation significantly grows over th
 <img align="right" src="/resources/posts/bshift_sim.png" width="366">
 We hypothesize that BERT implicitly encodes abnormalities in the representation of shifted tokens. To investigate this, we computed the cosine distance of each token to itself in the original and shifted sentences. This figure shows layer-wise statistics for both shifted and non-shifted tokens. __The trend for the shifted token distances highly correlates with that of probing performance, supporting our hypothesis of BERT encoding abnormalities in the shifted tokens.__
 
-<!-- Lighter color by Ali -- DONE -->
 <span class="note">
 _To investigate the root cause of this, we took a step further and analyzed the building blocks of these representations, i.e., the self-attention mechanism (read [the paper](https://arxiv.org/pdf/2104.01477.pdf) for details)._</span>
 
 #### Phrasal-level inversion
 The Coordination Inversion (__CoordInv__) task is a binary classification that contains sentences with two coordinated clausal conjoints (and only one coordinating conjunction). In half of the sentences the clauses’ order is inverted and the goal is to detect malformed sentences at phrasal level. Two examples of these malformed sentences are:
 
-<!-- Need to be organized and light color by Ali -- DONE -->
 <div style="text-align: center;">
   <div style="background: #f0f0f0; display: inline-block; padding: 10px 24px">
     <div> <span style="color: #2e50ce">There was something to consider</span> but <span style="color: #780086">he might be a prince</span> --> I<span style="color: #777777">nverted</span>
     </div>
     <div>  <span style="color: #2e50ce">I cut myself</span> and <span style="color: #780086">the glass broke</span> . --> I<span style="color: #777777">nverted</span></div>
-    <!-- Is this is a good comment? by Mohebbi-->
     <div style="font-weight: 300; font-size:12px; color: #777777; padding-top: 10px">Both sentences would be correct if we just swap the blue and the purple clauses.</div>
   </div>
 </div>
@@ -191,7 +183,6 @@ The Coordination Inversion (__CoordInv__) task is a binary classification that c
 
 BERT’s performance on this task increases through layers and then slightly decreases in the last three layers. We observed that the attribution scores for $$“\texttt{but}”$$ and $$“\texttt{and}”$$ coordinators to be among the highest and that these scores notably increase through layers. We hypothesize that BERT might implicitly encodes phrasal level abnormalities in specific token representations.
 
-<!-- remove boarders like previous bar plots by Ali -- DONE -->
 <img align="center" src="/resources/posts/coord_bar_full_edited.png">
 
 <br>

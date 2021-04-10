@@ -9,7 +9,7 @@ layout: default
 ---
 
 <style>
-    p, li {font-family: Roboto;}
+    p, li {font-weight: 300;}
 </style>
 <!-- (comment) the image below can be found in img folder of this very project-->
 
@@ -18,7 +18,6 @@ layout: default
 <!-- style="font-family: Roboto" -->
 <br>
 I'm a __Master__'s student in Artificial Intelligence at [Iran University of Science and Technology](http://www.iust.ac.ir/en).
-<!-- under the supervision of [Mohammad Taher Pilehvar](https://pilehvar.github.io/). -->
 I'm happy to be supervised by [Mohammad Taher Pilehvar](https://pilehvar.github.io/).
 
 My main research interest is __Natural Language Processing__, with a particular interest in analyzing and interpreting neural language models.
