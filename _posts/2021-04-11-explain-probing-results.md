@@ -222,7 +222,7 @@ Our approach in using a simple diagnostic classifier and incorporating attributi
 
 <br>
 <script src="https://utteranc.es/client.js"
-        repo="https://github.com/hmohebbi/hmohebbi.github.io"
+        repo="hmohebbi/hmohebbi.github.io"
         issue-term="title"
         theme="github-light"
         crossorigin="anonymous"
