@@ -14,7 +14,7 @@ permalink: /blog/explain-probing-results
 
 This is a post for the paper [Exploring the Role of BERT Token Representations to Explain Sentence Probing Results](https://arxiv.org/pdf/2104.01477.pdf).
 
-we carry out an extensive gradient-based attribution analysis to explain probing performance results from the viewpoint of token representations. Based on a set of probing tasks we show that:
+We carry out an extensive gradient-based attribution analysis to explain probing performance results from the viewpoint of token representations. Based on a set of probing tasks we show that:
 * while most of the positional information is diminished through layers of BERT, sentence-ending tokens are partially responsible for carrying this knowledge to higher layers in the model.
 * BERT tends to encode verb tense and noun number information in the $$\texttt{##s}$$ token and that it can clearly distinguish
 the two usages of the token by separating them into distinct subspaces in the higher layers. 
@@ -94,13 +94,30 @@ Colors indicate the corresponding token’s position in the sentence (darker col
 
 <br><br>
 ### Verb Tense and Noun Number
-This analysis inspects BERT representations for grammatical number and tense information. For this experiment we used the __Tense__ and __ObjNum__ tasks: the former checks whether the main-clause verb is labeled as present or past, whereas the latter classifies the object according to its number, i.e., singular or plural. On both tasks, BERT preserves a consistently high performance (> 0.82 accuracy) across all layers.
+This analysis inspects BERT representations for grammatical number and tense information. For this experiment we used the __ObjNum__ and __Tense__ tasks: the former classifies the object according to its number, i.e., singular (NN) or plural (NNS), whereas the latter checks whether the main-clause verb is labeled as present or past.
+
+<div style="text-align: center;">
+  <div style="background: #f0f0f0; display: inline-block; padding: 10px 24px">
+    <div style="font-family:Roboto"> When you think of it you will see lots of instances of this . --> NNS
+    </div>
+  </div>
+</div>
+
+<br>
+<div style="text-align: center;">
+  <div style="background: #f0f0f0; display: inline-block; padding: 10px 24px">
+    <div style="font-family:Roboto"> In her view , reading the bible fixes everything . --> PRES<span style="color: #777777">ENT</span>
+    </div>
+  </div>
+</div>
+
+<span class="note">_In Tense task, each sentence may include multiple verbs, subjects, and objects, while the label is based on the main clause [(Conneau et al., 2018)](https://doi.org/10.18653/v1/P18-1198)._</span>
 
 <br>
 > Articles and ending tokens (e.g., $$\texttt{##s}$$ and $$\texttt{##ed}$$ ) are key playmakers.
 
-<img align="right" src="/resources/posts/Number_Tense_5LayerAttrib_4.png" width="370" height="330">
-Our Attribution analysis reveals that article words (e.g., $$“\texttt{a}”$$ and $$“\texttt{an}”$$) and the ending $$\texttt{##s}$$ token, which makes out-of-vocab plural words (or third person present verbs), are among the most attributed tokens in the ObjNum task. This shows that these tokens are mainly responsible for encoding object’s number information across layers. 
+<img align="right" src="/resources/posts/Number_Tense_5LayerAttrib_4.png" width="375" height="330">
+On both tasks, BERT preserves a consistently high performance (> 0.82 accuracy) across all layers. Our Attribution analysis reveals that article words (e.g., $$“\texttt{a}”$$ and $$“\texttt{an}”$$) and the ending $$\texttt{##s}$$ token, which makes out-of-vocab plural words (or third person present verbs), are among the most attributed tokens in the ObjNum task. This shows that these tokens are mainly responsible for encoding object’s number information across layers. 
 
 As for the Tense task, the figure shows a consistently high influence from verb ending tokens (e.g., $$\texttt{##ed}$$  and $$\texttt{##s}$$) across layers which is in line with performance trends for this task and highlights the role of these tokens in preserving verb tense information.
 
