@@ -129,7 +129,7 @@ Let’s look at the following sentences and corresponding labels from the test s
 
 <div style="text-align: center;">
   <div style="background: #f0f0f0; display: inline-block; padding: 10px 24px">
-    <div style="font-family:Roboto"> He was interrupted by a knock at the door --> O<span style="color: #777777">riginal</span>
+    <div style="font-family:Roboto"> He was interrupted by a knock at the door . --> O<span style="color: #777777">riginal</span>
     </div>
     <div style="font-family:Roboto"> I felt like <span style="color: #de2347; font-weight: 700">time my</span> here was getting short . --> I<span style="color: #777777">nverted</span></div>
   </div>
@@ -174,7 +174,7 @@ The Coordination Inversion (__CoordInv__) task is a binary classification that c
 
 <div style="text-align: center;">
   <div style="background: #f0f0f0; display: inline-block; padding: 10px 24px">
-    <div> <span style="color: #2e50ce">There was something to consider</span> but <span style="color: #780086">he might be a prince</span> --> I<span style="color: #777777">nverted</span>
+    <div> <span style="color: #2e50ce">There was something to consider</span> but <span style="color: #780086">he might be a prince .</span> --> I<span style="color: #777777">nverted</span>
     </div>
     <div>  <span style="color: #2e50ce">I cut myself</span> and <span style="color: #780086">the glass broke</span> . --> I<span style="color: #777777">nverted</span></div>
     <div style="font-weight: 300; font-size:12px; color: #777777; padding-top: 10px">Both sentences would be correct if we just swap the blue and the purple clauses.</div>

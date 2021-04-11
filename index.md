@@ -15,7 +15,6 @@ layout: default
 
 ![me](/resources/people/me.jpg){: style="float: right; margin: 10px 15px; width: 180px;"}
 
-<!-- style="font-family: Roboto" -->
 <br>
 I'm a __Master__'s student in Artificial Intelligence at [Iran University of Science and Technology](http://www.iust.ac.ir/en).
 I'm happy to be supervised by [Mohammad Taher Pilehvar](https://pilehvar.github.io/).
