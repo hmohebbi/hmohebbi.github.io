@@ -98,7 +98,7 @@ This analysis inspects BERT representations for grammatical number and tense inf
 
 <div style="text-align: center;">
   <div style="background: #f0f0f0; display: inline-block; padding: 10px 24px">
-    <div style="font-family:Roboto"> When you think of it you will see lots of instances of this . --> NNS
+    <div style="font-family:Roboto"> I wasn't chasing rainbows but perhaps she had spotted my struggle . --> NNS
     </div>
   </div>
 </div>
