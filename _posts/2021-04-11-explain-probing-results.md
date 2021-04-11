@@ -94,7 +94,7 @@ Colors indicate the corresponding token’s position in the sentence (darker col
 
 <br><br>
 ### Verb Tense and Noun Number
-This analysis inspects BERT representations for grammatical number and tense information. For this experiment we used the __ObjNum__ and __Tense__ tasks: the former classifies the object according to its number, i.e., singular (NN) or plural (NNS), whereas the latter checks whether the main-clause verb is labeled as present or past.
+This analysis inspects BERT representations for grammatical number and tense information. For this experiment we used the __ObjNum__ and __Tense__ tasks: the former classifies the direct object of the main clause according to its number, i.e., singular (NN) or plural (NNS), whereas the latter checks whether the main-clause verb is labeled as present or past.
 
 <div style="text-align: center;">
   <div style="background: #f0f0f0; display: inline-block; padding: 10px 24px">
