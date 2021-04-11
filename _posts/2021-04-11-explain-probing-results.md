@@ -94,16 +94,16 @@ Colors indicate the corresponding token’s position in the sentence (darker col
 
 <br><br>
 ### Verb Tense and Noun Number
-This analysis inspects BERT representations for grammatical number and tense information. For this experiment we used the __ObjNum__ and __Tense__ tasks: the former classifies the direct object of the main clause according to its number, i.e., singular (NN) or plural (NNS), whereas the latter checks whether the main-clause verb is labeled as present or past.
+This analysis inspects BERT representations for grammatical number and tense information. For this experiment we used the __ObjNum__ and __Tense__ tasks: the former classifies the direct object of the main clause according to its number, i.e., singular (NN) or plural (NNS), whereas the latter checks whether the main-clause verb is labeled as present or past. Let's look at an example from each probing task:
 
+<span style="font-weight:700;">ObjNum:</span>
 <div style="text-align: center;">
   <div style="background: #f0f0f0; display: inline-block; padding: 10px 24px">
     <div style="font-family:Roboto"> I wasn't chasing rainbows but perhaps she had spotted my struggle . --> NNS
     </div>
   </div>
 </div>
-
-<br>
+<span style="font-weight:700;">Tense:</span>
 <div style="text-align: center;">
   <div style="background: #f0f0f0; display: inline-block; padding: 10px 24px">
     <div style="font-family:Roboto"> In her view , reading the bible fixes everything . --> PRES<span style="color: #777777">ENT</span>
@@ -111,6 +111,7 @@ This analysis inspects BERT representations for grammatical number and tense inf
   </div>
 </div>
 
+<br>
 <span class="note">_In Tense task, each sentence may include multiple verbs, subjects, and objects, while the label is based on the main clause [(Conneau et al., 2018)](https://doi.org/10.18653/v1/P18-1198)._</span>
 
 <br>
@@ -218,3 +219,12 @@ Surprisingly, all these curves exhibit a similar trend. As we can see, when the 
 We provided an analysis on the representation space of BERT in search for distinct and meaningful subspaces that can explain probing results. Based on a set of probing tasks and with the help of attribution methods we showed that BERT tends to encode meaningful knowledge in specific token representations (which are often ignored in standard classification setups), allowing the model to detect syntactic and semantic abnormalities, and to distinctively separate grammatical number and tense subspaces.
 
 Our approach in using a simple diagnostic classifier and incorporating attribution methods provides a novel way of extracting qualitative results based on multi-class classification probes. This analysis method could be easily applied to probing various deep pre-trained models on various sentence level tasks. We hope this method will spur future probing studies in other evaluation scenarios. Future work might explore to investigate how these subspaces are evolved or transformed during fine-tuning and whether being beneficial at inference time to various downstream tasks or to check whether these behaviors are affected by different training objectives or tokenization strategies.
+
+<br>
+<script src="https://utteranc.es/client.js"
+        repo="hmohebbi.github.io"
+        issue-term="title"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
