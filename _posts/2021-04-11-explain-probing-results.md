@@ -88,8 +88,7 @@ This figure shows tokens that most contributed to the probing results across dif
 <img align="right" src="/resources/posts/PosEmbedding4TSNE_wCbar.png" width="400" >
 
 <br><br><br>
-Here are t-SNE plots of the representations of four se-
-lected high frequency tokens ($$“\texttt{[SEP]}”$$, $$“\texttt{.}”$$ full stop, $$“\texttt{the}”$$, $$“\texttt{and}”$$) in different sentences. 
+Here are t-SNE plots of the representations of four selected high frequency tokens ($$“\texttt{[SEP]}”$$, $$“\texttt{.}”$$ full stop, $$“\texttt{the}”$$, $$“\texttt{and}”$$) in different sentences. 
 Colors indicate the corresponding token’s position in the sentence (darker colors means higher position index). Finalizing tokens (e.g., $$“\texttt{[SEP]}”$$, $$“\texttt{.}”$$) preserve distinct patterns in final layers, indicating their role in encoding positional information, while other (high frequency) tokens exhibit no such behavior.
 
 <br><br>
@@ -141,7 +140,7 @@ After the initial layers, __BERT recognizes and separates these two forms into t
 For this set of experiments, we opted for SentEval’s Bi-gram Shift and Coordination Inversion tasks which respectively probe model’s ability in detecting syntactic and semantic abnormalities. __The goal of this analysis was to to investigate if BERT encodes inversion abnormality in a given sentence into specific token representations.__
 
 
-#### Token-level inversion
+#### Word-level inversion
 Bi-gram Shift (__BShift__) checks the ability of a model to identify whether two adjacent words within a given sentence have been inverted. 
 Let’s look at the following sentences and corresponding labels from the test set:
 
