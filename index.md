@@ -30,4 +30,4 @@ Previously, I got my Bachelor’s degree in Computer Engineering from [Ferdowsi 
 ## <span style="color:#424242">News </span>
 * __June 2021__: Invited talk at Cambridge/Cardiff Workshop in Natural Language Processing
 * __May 2021__: Gave a guest lecture on Interpretability as a part of the graduate [NLP course](https://teias-courses.github.io/nlp99/) at Khatam University
-* __Apr 2021__: Our pre-print intepretability work is ready! [Exploring the Role of BERT Token Representations to Explain Sentence Probing Results](https://arxiv.org/abs/2104.01477)
+* __April 2021__: Our pre-print intepretability work is ready! [Exploring the Role of BERT Token Representations to Explain Sentence Probing Results](https://arxiv.org/abs/2104.01477)
