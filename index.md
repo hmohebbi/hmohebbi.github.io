@@ -28,7 +28,7 @@ Previously, I got my Bachelor’s degree in Computer Engineering from [Ferdowsi 
 <br><br><br>
 
 ## <span style="color:#424242">News </span>
-* __September 2021__: 🥳 Two papers have been accepted to EMNLP 2021 (main conference and BlackboxNLP)
+* __September 2021__: 🥳 Two papers accepted to [EMNLP 2021](https://2021.emnlp.org/) (main conference and BlackboxNLP)
 * __June 2021__: Invited talk at Cambridge/Cardiff Workshop in Natural Language Processing
 * __May 2021__: Gave a guest lecture on Interpretability as a part of the graduate [NLP course](https://teias-courses.github.io/nlp99/) at Khatam University
 * __April 2021__: Our pre-print intepretability work is ready! [Exploring the Role of BERT Token Representations to Explain Sentence Probing Results](https://arxiv.org/abs/2104.01477)
