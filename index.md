@@ -16,7 +16,7 @@ layout: default
 ![me](/resources/people/me.jpg){: style="float: right; margin: 10px 15px; width: 180px;"}
 
 <br>
-I'm a __Master__'s student in Artificial Intelligence at [Iran University of Science and Technology](http://www.iust.ac.ir/en).
+I'm a __Master__'s student in Artificial Intelligence at [Iran University of Science and Technology](http://www.iust.ac.ir).
 I'm happy to be supervised by [Mohammad Taher Pilehvar](https://pilehvar.github.io/).
 
 My main research interest is __Natural Language Processing__, with a particular interest in analyzing and interpreting neural language models.
