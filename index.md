@@ -13,9 +13,11 @@ layout: default
 </style>
 <!-- (comment) the image below can be found in img folder of this very project-->
 
-![me](/resources/people/me.jpg){: style="float: right; margin: 10px 15px; width: 180px;"}
+![me](/resources/people/me.jpg){: style="float: right; margin: 5px 25px; width: 180px;"}
 
 <br>
+Hi there!
+
 I'm a __Ph.D.__ candidate at the [Department of Cognitive Science and Artificial Intelligence](https://www.tilburguniversity.edu/about/schools/tshd/departments/dca) at [Tilburg University](https://www.tilburguniversity.edu/), co-advised by [Afra Alishahi](http://afra.alishahi.name/) and [Grzegorz Chrupała](https://grzegorz.chrupala.me/).
 
 My main research interest lies in the area of Deep Learning in Natural Language Processing, with a particular interest in __analyzing and interpreting neural language models__.
