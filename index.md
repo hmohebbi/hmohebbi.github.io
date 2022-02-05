@@ -18,7 +18,7 @@ layout: default
 <br>
 Hi there!
 
-I'm a __Ph.D.__ candidate at the [Department of Cognitive Science and Artificial Intelligence](https://www.tilburguniversity.edu/about/schools/tshd/departments/dca) at [Tilburg University](https://www.tilburguniversity.edu/), co-advised by [Afra Alishahi](http://afra.alishahi.name/) and [Grzegorz Chrupała](https://grzegorz.chrupala.me/).
+I'm a __Ph.D.__ candidate at the [Department of Cognitive Science and Artificial Intelligence](https://www.tilburguniversity.edu/about/schools/tshd/departments/dca) at [Tilburg University](https://www.tilburguniversity.edu/). I'm happy to be supervised by [Afra Alishahi](http://afra.alishahi.name/), [Grzegorz Chrupała](https://grzegorz.chrupala.me/) and [Jelle Zuidema](https://staff.fnwi.uva.nl/w.zuidema/).
 
 My main research interest lies in the area of Deep Learning in Natural Language Processing, with a particular interest in __analyzing and interpreting neural language models__.
 
@@ -31,6 +31,7 @@ Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi Univer
 <br><br><br>
 
 ## <span style="color:#424242">News </span>
+* __Jan 2022__: Serving as a reviewer for [ACL Rolling Review](https://aclrollingreview.org/) since January 2022.
 * __Nov 2021__: Moving to the Netherlands to join the consortium project [InDeep: Interpreting Deep Learning Models for Text and Sound](https://interpretingdl.github.io/).
 * __Sep 2021__: 🎓 Successfully defended my Master's thesis titled "Interpretability and Transferability of Linguistic Knowledge in Pre-trained Language Models".
 * __Sep 2021__: 🥳 Two papers accepted to [EMNLP 2021](https://2021.emnlp.org/) (main conference and BlackboxNLP).
