@@ -31,7 +31,7 @@ Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi Univer
 <br><br><br>
 
 ## <span style="color:#424242">News </span>
-* __Feb 2022__: 🥳 Our paper on improving model efficiency got accepted to appear at [ACL 2022](https://www.2022.aclweb.org/) main.
+* __Feb 2022__: 🥳 Our paper on improving model efficiency got accepted to [ACL 2022](https://www.2022.aclweb.org/) main conferences.
 * __Jan 2022__: Serving as a reviewer for [ACL Rolling Review](https://aclrollingreview.org/) since January 2022.
 * __Nov 2021__: Moved to the Netherlands to join the consortium project [InDeep: Interpreting Deep Learning Models for Text and Sound](https://interpretingdl.github.io/).
 * __Sep 2021__: 🎓 Successfully defended my Master's thesis titled "Interpretability and Transferability of Linguistic Knowledge in Pre-trained Language Models".
