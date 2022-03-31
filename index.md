@@ -13,7 +13,7 @@ layout: default
 </style>
 <!-- (comment) the image below can be found in img folder of this very project-->
 
-![me](/resources/people/me_2.jpg){: style="float: right; margin: 45px 30px; width: 180px;"}
+![me](/resources/people/me_2.jpg){: style="float: right; margin: 40px 30px; width: 180px;"}
 
 Hi there!
 
