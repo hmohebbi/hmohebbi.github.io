@@ -13,9 +13,8 @@ layout: default
 </style>
 <!-- (comment) the image below can be found in img folder of this very project-->
 
-![me](/resources/people/me_2.jpg){: style="float: right; margin: 5px 25px; width: 180px;"}
+![me](/resources/people/me_2.jpg){: style="float: right; margin: 45px 30px; width: 180px;"}
 
-<br>
 Hi there!
 
 I'm a __Ph.D.__ candidate at the [Department of Cognitive Science and Artificial Intelligence](https://www.tilburguniversity.edu/about/schools/tshd/departments/dca) at [Tilburg University](https://www.tilburguniversity.edu/). I'm happy to be supervised by [Afra Alishahi](http://afra.alishahi.name/), [Grzegorz Chrupała](https://grzegorz.chrupala.me/) and [Jelle Zuidema](https://staff.fnwi.uva.nl/w.zuidema/).
