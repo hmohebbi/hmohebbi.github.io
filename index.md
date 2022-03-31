@@ -13,7 +13,7 @@ layout: default
 </style>
 <!-- (comment) the image below can be found in img folder of this very project-->
 
-![me](/resources/people/me.jpg){: style="float: right; margin: 5px 25px; width: 180px;"}
+![me](/resources/people/me_2.jpg){: style="float: right; margin: 5px 25px; width: 180px;"}
 
 <br>
 Hi there!
@@ -34,7 +34,7 @@ Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi Univer
 * __Feb 2022__: 🥳 Our paper on improving model efficiency got accepted to [ACL 2022](https://www.2022.aclweb.org/) main conference.
 * __Jan 2022__: Serving as a reviewer for [ACL Rolling Review](https://aclrollingreview.org/) since January 2022.
 * __Nov 2021__: Moved to the Netherlands to join the consortium project [InDeep: Interpreting Deep Learning Models for Text and Sound](https://interpretingdl.github.io/).
-* __Nov 2021__: Oral presentation at [EMNLP 2021](https://2021.emnlp.org/).
+* __Nov 2021__: Gave an oral presentation at [EMNLP 2021](https://2021.emnlp.org/).
 * __Sep 2021__: 🎓 Successfully defended my Master's thesis titled "Interpretability and Transferability of Linguistic Knowledge in Pre-trained Language Models".
 * __Sep 2021__: 🥳 Two papers accepted to [EMNLP 2021](https://2021.emnlp.org/) (main conference and BlackboxNLP).
 * __Jun 2021__: Invited talk at Cambridge/Cardiff Workshop in Natural Language Processing.
