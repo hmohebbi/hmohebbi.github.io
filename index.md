@@ -31,7 +31,7 @@ Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi Univer
 
 ## <span style="color:#424242">News </span>
 * __May 2022__: Presented a poster at [ACL 2022](https://www.2022.aclweb.org/) in Dublin, Ireland.
-* __May 2022__: Gave a short talk at [InDeep](https://interpretingdl.github.io/) workshop at University of Amsterdam.
+* __May 2022__: Gave a short talk at [InDeep](https://interpretingdl.github.io/) workshop at the University of Amsterdam.
 * __Feb 2022__: 🥳 Our paper on improving model efficiency got accepted to [ACL 2022](https://www.2022.aclweb.org/) main conference.
 * __Jan 2022__: Serving as a reviewer for [ACL Rolling Review](https://aclrollingreview.org/) since January 2022.
 * __Nov 2021__: Moved to the Netherlands to join the consortium project [InDeep: Interpreting Deep Learning Models for Text and Sound](https://interpretingdl.github.io/).
