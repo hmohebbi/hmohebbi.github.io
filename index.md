@@ -30,7 +30,7 @@ Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi Univer
 <br><br><br>
 
 ## <span style="color:#424242">News </span>
-* __Sep 2022__: Gave a lecture on Interpretability with Transformers as a part of the graduate Interpretability course at Tilburg University.
+* __Sep 2022__: Gave a guest lecture on Interpretability with Transformers as a part of the graduate Interpretability course at Tilburg University.
 * __May 2022__: Presented a poster at [ACL 2022](https://www.2022.aclweb.org/) in Dublin, Ireland.
 * __May 2022__: Gave a short talk at [InDeep](https://interpretingdl.github.io/) workshop at the University of Amsterdam.
 * __Feb 2022__: 🥳 Our paper on improving model efficiency got accepted to [ACL 2022](https://www.2022.aclweb.org/) main conference.
