@@ -21,7 +21,7 @@ I'm a __Ph.D.__ candidate at the [Department of Cognitive Science and Artificial
 
 My main research interest lies in the area of Deep Learning in Natural Language Processing, with a particular interest in __analyzing and interpreting neural language models__.
 
-Previously, I completed my Master’s degree in Artificial Intelligence at [Iran University of Science and Technology](http://www.iust.ac.ir), where I focused mostly on interpretability and accelerating inference of pre-trained language models under the supervision of [Mohammad Taher Pilehvar](https://pilehvar.github.io/).
+Previously, I completed my Master’s degree in Artificial Intelligence at [Iran University of Science and Technology](http://www.iust.ac.ir/en), where I focused mostly on interpretability and accelerating inference of pre-trained language models under the supervision of [Mohammad Taher Pilehvar](https://pilehvar.github.io/).
 
 Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi University of Mashhad](https://en.um.ac.ir/). During that, I was working under the supervision of [Ahad Harati](http://a.harati.profcms.um.ac.ir/) as a team member of the [Nexus](http://nexus.um.ac.ir/) RoboCup Simulation Team.
 
