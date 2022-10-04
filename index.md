@@ -17,7 +17,7 @@ layout: default
 
 Hi there!
 
-I'm a __Ph.D.__ candidate at the [Department of Cognitive Science and Artificial Intelligence](https://www.tilburguniversity.edu/about/schools/tshd/departments/dca) at [Tilburg University](https://www.tilburguniversity.edu/). I'm part of the NWO-funded project [InDeep: Interpreting Deep Learning Models for Text and Sound](https://interpretingdl.github.io/), and happy to be supervised by [Afra Alishahi](http://afra.alishahi.name/), [Grzegorz Chrupała](https://grzegorz.chrupala.me/) and [Jelle Zuidema](https://staff.fnwi.uva.nl/w.zuidema/).
+I'm a __Ph.D.__ candidate at the [Department of Cognitive Science and Artificial Intelligence](https://www.tilburguniversity.edu/about/schools/tshd/departments/dca) at [Tilburg University](https://www.tilburguniversity.edu/). I'm part of the NWO-funded project [InDeep: Interpreting Deep Learning Models for Text and Sound](https://interpretingdl.github.io/), and happy to be supervised by [Afra Alishahi](http://afra.alishahi.name/), [Grzegorz Chrupała](https://grzegorz.chrupala.me/) and [Willem Zuidema](https://staff.fnwi.uva.nl/w.zuidema/).
 
 My main research interest lies in the area of Deep Learning in Natural Language Processing, with a particular interest in __analyzing and interpreting neural language models__.
 
