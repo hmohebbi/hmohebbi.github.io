@@ -26,7 +26,6 @@ Previously, I completed my Master’s degree in Artificial Intelligence at [Iran
 Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi University of Mashhad](https://en.um.ac.ir/). During that, I was working under the supervision of [Ahad Harati](http://a.harati.profcms.um.ac.ir/) as a team member of the [Nexus](http://nexus.um.ac.ir/) RoboCup Simulation Team.
 
 
-
 <br><br>
 ## <span style="color:#424242">Services </span>
 * Reviewer: [EACL 2023](https://2023.eacl.org/), [EMNLP 2022](https://2022.emnlp.org/), [ACL Rolling Review](https://aclrollingreview.org/)
