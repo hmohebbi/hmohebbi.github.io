@@ -27,14 +27,15 @@ Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi Univer
 
 
 
-<br><br><br>
+<br><br>
+## <span style="color:#424242">Services </span>
+* Reviewer: [EACL 2023](https://2023.eacl.org/), [EMNLP 2022](https://2022.emnlp.org/), [ACL Rolling Review](https://aclrollingreview.org/)
+<br><br>
 
 ## <span style="color:#424242">News </span>
-* __Sep 2022__: Gave a guest lecture on Interpretability with Transformers as a part of the graduate Interpretability course at Tilburg University. \[[slides](https://drive.google.com/file/d/1Z39YSfzpzzkqAiMxVdW1nOkudfYVgj_y/view?usp=sharing)\]
-* __May 2022__: Presented a poster at [ACL 2022](https://www.2022.aclweb.org/) in Dublin, Ireland.
+* __Sep 2022__: Gave a guest lecture on Interpretability of Transformers to the graduate Interpretability course at Tilburg University. \[[slides](https://drive.google.com/file/d/1Z39YSfzpzzkqAiMxVdW1nOkudfYVgj_y/view?usp=sharing)\]
 * __May 2022__: Gave a short talk at [InDeep](https://interpretingdl.github.io/) workshop at the University of Amsterdam.
-* __Feb 2022__: 🥳 Our paper on improving model efficiency got accepted to [ACL 2022](https://www.2022.aclweb.org/) main conference.
-* __Jan 2022__: Serving as a reviewer for [ACL Rolling Review](https://aclrollingreview.org/) since January 2022.
+* __Feb 2022__: 🥳 [AdapLeR](https://aclanthology.org/2022.acl-long.1/) is out, up to 22x infrence speedup while retaining performance ([ACL 2022](https://www.2022.aclweb.org/) main conference).
 * __Nov 2021__: Moved to the Netherlands to join the consortium project [InDeep: Interpreting Deep Learning Models for Text and Sound](https://interpretingdl.github.io/).
 * __Nov 2021__: Gave an oral presentation at [EMNLP 2021](https://2021.emnlp.org/).
 * __Sep 2021__: 🎓 Successfully defended my Master's thesis titled "Interpretability and Transferability of Linguistic Knowledge in Pre-trained Language Models".
