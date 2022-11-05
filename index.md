@@ -29,7 +29,7 @@ Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi Univer
 
 ## <span style="color:#424242">Services </span>
 * Reviewer: [EACL 2023](https://2023.eacl.org/), [EMNLP 2022](https://2022.emnlp.org/), [ACL Rolling Review](https://aclrollingreview.org/)
-<br><br>
+
 
 ## <span style="color:#424242">News </span>
 * __Sep 2022__: Gave a guest lecture on Interpretability of Transformers to the graduate Interpretability course at Tilburg University. \[[slides](https://drive.google.com/file/d/1Z39YSfzpzzkqAiMxVdW1nOkudfYVgj_y/view?usp=sharing)\]
