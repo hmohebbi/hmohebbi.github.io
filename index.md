@@ -32,11 +32,11 @@ Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi Univer
 
 
 ## <span style="color:#424242">News </span>
+* __Dec 2022__: [BlackboxNLP](https://blackboxnlp.github.io/) will be back in 2023 at EMNLP 2023!
 * __Sep 2022__: Gave a guest lecture on Interpretability of Transformers to the graduate Interpretability course at Tilburg University. \[[slides](https://drive.google.com/file/d/1Z39YSfzpzzkqAiMxVdW1nOkudfYVgj_y/view?usp=sharing)\]
 * __May 2022__: Gave a short talk at [InDeep](https://interpretingdl.github.io/) workshop at the University of Amsterdam.
 * __Feb 2022__: 🥳 [AdapLeR](https://aclanthology.org/2022.acl-long.1/) is out, up to 22x infrence speedup while retaining performance ([ACL 2022](https://www.2022.aclweb.org/) main conference).
 * __Nov 2021__: Moved to the Netherlands to join the consortium project [InDeep: Interpreting Deep Learning Models for Text and Sound](https://interpretingdl.github.io/).
-* __Nov 2021__: Gave an oral presentation at [EMNLP 2021](https://2021.emnlp.org/).
 * __Sep 2021__: 🎓 Successfully defended my Master's thesis titled "Interpretability and Transferability of Linguistic Knowledge in Pre-trained Language Models".
 * __Sep 2021__: 🥳 Two papers accepted to [EMNLP 2021](https://2021.emnlp.org/) (main conference and BlackboxNLP).
 * __Jun 2021__: Invited talk at Cambridge/Cardiff Workshop in Natural Language Processing.
