@@ -19,16 +19,16 @@ Hi there!
 
 I'm a __Ph.D.__ candidate at the [Department of Cognitive Science and Artificial Intelligence](https://www.tilburguniversity.edu/about/schools/tshd/departments/dca) at [Tilburg University](https://www.tilburguniversity.edu/). I'm part of the NWO-funded project [InDeep: Interpreting Deep Learning Models for Text and Sound](https://interpretingdl.github.io/), and happy to be supervised by [Afra Alishahi](http://afra.alishahi.name/), [Grzegorz Chrupała](https://grzegorz.chrupala.me/) and [Willem Zuidema](https://staff.fnwi.uva.nl/w.zuidema/).
 
-My main research interest lies in the area of Deep Learning in Natural Language Processing, with a particular interest in __analyzing and interpreting neural language models__.
+My research interests revolve around __analyzing and interpreting neural language and speech models__.
 
-Previously, I completed my Master’s degree in Artificial Intelligence at [Iran University of Science and Technology](http://www.iust.ac.ir/en), where I focused mostly on interpretability and accelerating inference of pre-trained language models under the supervision of [Mohammad Taher Pilehvar](https://pilehvar.github.io/).
+Previously, I completed my Master’s degree in Artificial Intelligence at [Iran University of Science and Technology](http://www.iust.ac.ir/en), where I focused mainly on interpretability and accelerating inference of pre-trained language models under the supervision of [Mohammad Taher Pilehvar](https://pilehvar.github.io/).
 
 Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi University of Mashhad](https://en.um.ac.ir/). During that, I was working under the supervision of [Ahad Harati](http://a.harati.profcms.um.ac.ir/) as a team member of the [Nexus](http://nexus.um.ac.ir/) RoboCup Simulation Team.
 
 
 
 ## <span style="color:#424242">Services </span>
-* Reviewer: [EACL 2023](https://2023.eacl.org/), [EMNLP 2022](https://2022.emnlp.org/), [ACL Rolling Review](https://aclrollingreview.org/)
+* Reviewed for: [EACL 2023](https://2023.eacl.org/), [EMNLP 2022](https://2022.emnlp.org/), [ACL Rolling Review](https://aclrollingreview.org/)
 
 
 ## <span style="color:#424242">News </span>
