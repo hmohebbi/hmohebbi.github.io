@@ -32,7 +32,7 @@ Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi Univer
 
 
 ## <span style="color:#424242">News </span>
-* __Jan 2023__: 🥳 [Value Zeroing](https://arxiv.org/abs/2301.12971) is out, a novel context mixing score customized for Transformers (accepted to [EACL 2023](https://2023.eacl.org/) main conference).
+* __Jan 2023__: 🥳 [Value Zeroing](https://arxiv.org/abs/2301.12971) is out, a novel interpretability method customized for Transformers (accepted to [EACL 2023](https://2023.eacl.org/) main conference).
 * __Dec 2022__: [BlackboxNLP](https://blackboxnlp.github.io/) will be back in 2023 at EMNLP 2023!
 * __Sep 2022__: Gave a guest lecture on Interpretability of Transformers to the graduate Interpretability course at Tilburg University. \[[slides](https://drive.google.com/file/d/1Z39YSfzpzzkqAiMxVdW1nOkudfYVgj_y/view?usp=sharing)\]
 * __May 2022__: Gave a short talk at [InDeep](https://interpretingdl.github.io/) workshop at the University of Amsterdam.
