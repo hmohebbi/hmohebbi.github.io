@@ -23,7 +23,7 @@ My research is focused on __analyzing and interpreting neural language and speec
 
 Previously, I completed my Master’s degree in Artificial Intelligence at [Iran University of Science and Technology](http://www.iust.ac.ir/en), where my research revolved around interpretability and accelerating inference of pre-trained language models under the supervision of [Mohammad Taher Pilehvar](https://pilehvar.github.io/).
 
-Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi University of Mashhad](https://en.um.ac.ir/). During that, I was working under the supervision of [Ahad Harati](http://a.harati.profcms.um.ac.ir/) as a team member of the [Nexus](http://nexus.um.ac.ir/) RoboCup Simulation Team.
+Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi University of Mashhad](https://en.um.ac.ir/). During that, I was working under the supervision of [Ahad Harati](http://a.harati.profcms.um.ac.ir/) as a team member of the Nexus RoboCup Simulation Team.
 
 
 
@@ -33,7 +33,7 @@ Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi Univer
 
 ## <span style="color:#424242">News </span>
 * __Jan 2023__: 🥳 [Value Zeroing](https://arxiv.org/abs/2301.12971) is out, a new interpretability method customized for Transformers (accepted to [EACL 2023](https://2023.eacl.org/) main conference).
-* __Dec 2022__: [BlackboxNLP](https://blackboxnlp.github.io/) will be back in 2023 at EMNLP 2023!
+* __Dec 2022__: [BlackboxNLP](https://blackboxnlp.github.io/) will be back in 2023 at EMNLP 2023! Happy to be serving as a co-organizer.
 * __Sep 2022__: Gave a guest lecture on Interpretability of Transformers to the graduate Interpretability course at Tilburg University. \[[slides](https://drive.google.com/file/d/1Z39YSfzpzzkqAiMxVdW1nOkudfYVgj_y/view?usp=sharing)\]
 * __May 2022__: Gave a short talk at [InDeep](https://interpretingdl.github.io/) workshop at the University of Amsterdam.
 * __Feb 2022__: 🥳 [AdapLeR](https://aclanthology.org/2022.acl-long.1/) is out, up to 22x infrence speedup while retaining performance ([ACL 2022](https://www.2022.aclweb.org/) main conference).
