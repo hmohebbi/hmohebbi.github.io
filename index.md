@@ -29,7 +29,7 @@ Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi Univer
 
 ## <span style="color:#424242">Services </span>
 * Reviewed for: [EACL 2023](https://2023.eacl.org/), [EMNLP 2022](https://2022.emnlp.org/), [ACL Rolling Review](https://aclrollingreview.org/)
-
+* Co-organizer of: [InDeep](https://interpretingdl.github.io/) Journal Club, [BlackboxNLP 2023](https://blackboxnlp.github.io/) Workshop
 
 ## <span style="color:#424242">News </span>
 * __Jan 2023__: 🥳 [Value Zeroing](https://arxiv.org/abs/2301.12971) is out, a new interpretability method customized for Transformers (accepted to [EACL 2023](https://2023.eacl.org/) main conference).
