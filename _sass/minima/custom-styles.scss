@@ -1,31 +1,30 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 
-.read-paper-button {
+.my-button {
     display: inline-block;
     text-align: center;
     vertical-align: middle;
-    padding: 7px 26px;
-    border: 1px solid #228be4;
+    padding: 4px 11px;
+    border: 1px solid #7d49a8;
     border-radius: 24px;
-    background: #228be4;
+    background: #7d49a8;
     font: 300 18px Roboto;
     color: #ffffff;
     text-decoration: none;
 }
-.read-paper-button:hover,
-.read-paper-button:focus {
+.my-button:hover,
+.my-button:focus {
     // border: 1px solid #95bcdf;
-    background: #1564aa;
+    background: #bc79fa;
     color: #ffffff;
     text-decoration: none;
 }
-.read-paper-button:visited {
+.my-button:visited {
     color: #ffffff;
     text-decoration: none;
 }
-.read-paper-button:before{
-    content:  "\0000a0";
+.my-button:before{
     display: inline-block;
     height: 20px;
     width: 20px;
@@ -34,8 +33,6 @@
     position: relative;
     top: 0px;
     left: 0px;
-    background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABoklEQVRIicWWMWvCQBiG38TWG0XJ4NCCnMGAv6FQoTgI4tA/cWML/TWZ3EuH7kKHdnKWQkhIEBGLuoiDJmLuOqUkmGovtfWDG+6++97nuxfuOOCPQ4lPut3ufa1WeyCEXGQR45xvptPp62QyYYwxLwEwTfOq2Wy+lctlbDYbCCGkAblcDoQQ9Hq9l3a7fQMAZ7F8o1gsIgiCLM0DAMIwhO/7KBQKjWgtDjiPup7NZpjP51LiiqKgXq8jDEMAUNMAmWw5VJ8K0DQNmqZlBsRBCQDnXFp0H2gHECUsy4JlWVKiqqqi0+nsrKcCDMOAYRhSgHj96S06ZqQCbNuG4zhSQqqqotVqJXR2AJFFuq5D13XpbqP601v02zhokeu68DzvWwFKKarVqjwgSlBKQSn9cZf74n8tygoQQmA4HKJUKgEA1uv114092gkIIahUKthut3Bd9zkN8BEEAfL5vLQ45xycc6xWKwwGg9FisbiLcmps36PjOCPf9yGEkBrL5RKKoqDf79vj8fiaMTaORBO/CtM0SwBuAVxKHwN4B/DEGEu8mJ+adQJQQ2rKcQAAAABJRU5ErkJggg==") no-repeat left center transparent;
-    background-size: 100% 100%;
 }
 
 .note {

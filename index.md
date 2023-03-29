@@ -19,7 +19,7 @@ Hi there!
 
 I'm a __Ph.D.__ candidate at the [Department of Cognitive Science and Artificial Intelligence](https://www.tilburguniversity.edu/about/schools/tshd/departments/dca) at [Tilburg University](https://www.tilburguniversity.edu/). I'm part of the NWO-funded project [InDeep: Interpreting Deep Learning Models for Text and Sound](https://interpretingdl.github.io/), and happy to be supervised by [Afra Alishahi](http://afra.alishahi.name/), [Grzegorz Chrupała](https://grzegorz.chrupala.me/) and [Willem Zuidema](https://staff.fnwi.uva.nl/w.zuidema/).
 
-My research is focused on __analyzing and interpreting neural language and speech models__.
+My research is focused on __analyzing and interpreting deep neural language and speech models__.
 
 Previously, I completed my Master’s degree in Artificial Intelligence at [Iran University of Science and Technology](http://www.iust.ac.ir/en), where my research revolved around interpretability and accelerating inference of pre-trained language models under the supervision of [Mohammad Taher Pilehvar](https://pilehvar.github.io/).
 
@@ -32,6 +32,7 @@ Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi Univer
 * Co-organizer of: [InDeep](https://interpretingdl.github.io/) Journal Club, [BlackboxNLP 2023](https://blackboxnlp.github.io/) Workshop
 
 ## <span style="color:#424242">News </span>
+* __Mar 2023__: New blog [post](https://hmohebbi.github.io/blog/value-zeroing): A few thoughts on why Value Zeroing.
 * __Jan 2023__: 🥳 [Value Zeroing](https://arxiv.org/abs/2301.12971) is out, a new interpretability method customized for Transformers (accepted to [EACL 2023](https://2023.eacl.org/) main conference).
 * __Jan 2023__: Presented a poster at [ALiAS 2023](https://staff.fnwi.uva.nl/w.zuidema/alias-2023/).
 * __Dec 2022__: [BlackboxNLP](https://blackboxnlp.github.io/) will be back in 2023 at EMNLP 2023! Happy to be serving as a co-organizer.

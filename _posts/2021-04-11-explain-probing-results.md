@@ -20,7 +20,8 @@ We carry out an extensive gradient-based attribution analysis to explain probing
 the two usages of the token by separating them into distinct subspaces in the higher layers. 
 * abnormalities can be captured by specific token representations, e.g., in two consecutive swapped tokens or a coordinator between two swapped clauses.
 
-<a class="read-paper-button" href="https://aclanthology.org/2021.emnlp-main.61.pdf">Read paper</a>
+<a class="my-button" href="https://aclanthology.org/2021.emnlp-main.61.pdf">📃 Paper</a>
+<a class="my-button" href="https://github.com/hmohebbi/explain-probing-results">☕ Code</a>
 
 ---
 
