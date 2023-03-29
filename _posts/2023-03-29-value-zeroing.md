@@ -16,7 +16,7 @@ It is based on our recent research [paper](https://arxiv.org/abs/2301.12971) in 
 
 <a class="my-button" href="https://arxiv.org/pdf/2301.12971.pdf">📃 Paper</a>
 <a class="my-button" href="https://github.com/hmohebbi/ValueZeroing">☕ Code</a>
-<a class="my-button" href="https://huggingface.co/spaces/amsterdamNLP/value-zeroing">🤗Gradio Demo</a>
+<a class="my-button" href="https://huggingface.co/spaces/amsterdamNLP/value-zeroing">🤗Demo</a>
 
 ---
 
