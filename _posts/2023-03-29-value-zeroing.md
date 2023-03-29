@@ -37,7 +37,7 @@ To illustrate, looking at the attention pattern has been a commonly used approac
 __Value Zeroing__ is a simple yet effective and intuitive analysis method, which is designed based on the mathematical principles of Transformers, without any underlying assumptions or posing confounding variables (such as involving an extra fine-tuned classifier).
 
 <br>
->🌍 __Considering all the components inside of Transformer layer__
+>🌍 __Considering all the components inside of a Transformer layer__
 
 Previous research has shown that Transformers do not solely depend on the weights assigned by the self-attention mechanism, as altering or removing these weights may lead to the same, and sometimes even better model performance on downstream tasks [(Hassid et al., 2022)](https://aclanthology.org/2022.findings-emnlp.101/). Additionally, by looking at their patterns, it has been observed that these weights tend to concentrate on uninformative tokens within the sentence [(Voita et al., 2018](https://aclanthology.org/P18-1117/); [Clark et al., 2019)](https://aclanthology.org/W19-4828/).
 
