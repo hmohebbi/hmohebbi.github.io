@@ -13,11 +13,11 @@ layout: default
 </style>
 <!-- (comment) the image below can be found in img folder of this very project-->
 
-![me](/resources/people/me_2.jpg){: style="float: right; margin: 40px 30px; width: 180px;"}
+![me](/resources/people/me_3.jpg){: style="float: right; margin: 40px 30px; width: 180px;"}
 
 Hi there!
 
-I'm a __Ph.D.__ candidate at the [Department of Cognitive Science and Artificial Intelligence](https://www.tilburguniversity.edu/about/schools/tshd/departments/dca) at [Tilburg University](https://www.tilburguniversity.edu/). I'm part of the NWO-funded project [InDeep: Interpreting Deep Learning Models for Text and Sound](https://interpretingdl.github.io/), and happy to be supervised by [Afra Alishahi](http://afra.alishahi.name/), [Grzegorz Chrupała](https://grzegorz.chrupala.me/) and [Willem Zuidema](https://staff.fnwi.uva.nl/w.zuidema/).
+I'm a __Ph.D.__ candidate at the [Department of Cognitive Science and Artificial Intelligence](https://www.tilburguniversity.edu/about/schools/tshd/departments/dca) at [Tilburg University](https://www.tilburguniversity.edu/). I'm part of the NWO-funded project [InDeep: Interpreting Deep Learning Models for Text and Sound](https://interpretingdl.github.io/), happy to be supervised by [Afra Alishahi](http://afra.alishahi.name/), [Grzegorz Chrupała](https://grzegorz.chrupala.me/) and [Willem Zuidema](https://staff.fnwi.uva.nl/w.zuidema/).
 
 My research is focused on __analyzing and interpreting deep neural language and speech models__.
 
