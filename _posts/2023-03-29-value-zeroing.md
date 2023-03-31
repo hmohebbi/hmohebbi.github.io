@@ -2,8 +2,6 @@
 layout: post
 title: "Why Value Zeroing?"
 categories: junk
-author:
-- Hosein Mohebbi
 
 permalink: /blog/value-zeroing
 
@@ -58,7 +56,7 @@ Unlike generic perturbation approaches, Value Zeroing does not remove a token re
 In contrast, __Value Zeroing__ only nullifies the value vector of a specific token representation and leaves the key and query vectors (and thus the pattern of attention flow) intact. In this way, the token representation can also maintain its identity within the Transformer layer, but it does not contribute to forming other token representations.
 
 <br>
->🧐 __Providing interpretation for both layer-specific and input attribution__
+>🧐 __Providing interpretation in both layer-specific and input attribution view__
 
 Our experiments suggest that __Value Zeroing__ offers better interpretation compared to previous analysis methods, not only for analyzing a specific single Transformer layer, but also for analyzing the entire model when scores are aggregated using the rollout method [(Abnar and Zuidema,
 2020)](https://aclanthology.org/2020.acl-main.385/).
