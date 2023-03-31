@@ -67,14 +67,14 @@ Our experiments suggest that __Value Zeroing__ offers better interpretation comp
 ### A Qualitative Example
 <img align="center" src="/resources/posts/vz.png">
 
-Here's a graph I really like, showing Value Zeroing scores for [RoBERTa](https://arxiv.org/abs/1907.11692) for the sentence "Either you win the game or you <mask> the game", showing a very interesting pattern that was interpreted by one of my supervisors:
+Here's a graph I really like, showing Value Zeroing scores for [RoBERTa](https://arxiv.org/abs/1907.11692) for the sentence _"Either you win the game or you <mask> the game"_, showing a very interesting pattern that was caught by one of my supervisors:
 * In the first two layers, the highest values are around the diagonal (mixing information w/ immediate neighbors), and an exchange of information between 'either' and 'or'.
-* Then, in layers 4-7, we see a mixing of information between equivalent words in the two sub-sentences ('you-you,' 'win-<mask>,' 'the-the,' 'game-game').
+* Then, in layers 4-7, we see a mixing of information between equivalent words in the two sub-sentences ('you-you,' 'win-mask,' 'the-the,' 'game-game').
 * In layers 9-11, there are notable vertical lines, as if all the information is concentrated in the nodes for 'win' and 'or.'
 * In the final layer, there are only high values on the diagonal (hardly any mixing).
 
   
-You can try for your own examples in our online [demo](https://huggingface.co/spaces/amsterdamNLP/value-zeroing).
+🤗 Try your own examples in our online [demo](https://huggingface.co/spaces/amsterdamNLP/value-zeroing).
 <br>
 
 ### Your thoughts and comments
