@@ -14,7 +14,7 @@ layout: default
 <!-- (comment) the image below can be found in img folder of this very project-->
 
 <!-- ![me](/resources/people/me_3.jpg){: style="float: right; margin: 40px 30px; width: 180px;"} -->
-<figure style="float: right; margin: 40px 30px;">
+<figure style="float: right; margin: 40px 28px;">
   <img src="/resources/people/me_3.jpg" alt="Me" style="width: 180px;">
   <figcaption style="display: block; text-align: center;"><span class="note">(Twister and me)</span></figcaption>
 </figure>
