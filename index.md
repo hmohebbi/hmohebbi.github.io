@@ -36,7 +36,7 @@ Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi Univer
 * Co-organizer of: [InDeep](https://interpretingdl.github.io/) Journal Club, [BlackboxNLP 2023](https://blackboxnlp.github.io/) Workshop
 
 ## <span style="color:#424242">News </span>
-* __Jun 2023__: Gave a talk on Value Zeroing at [GroNLP](https://www.rug.nl/research/clcg/research/cl/), University of Groningen.
+* __Jun 2023__: Gave a talk on context mixing in Transformers at [GroNLP](https://www.rug.nl/research/clcg/research/cl/), University of Groningen.
 * __May 2023__: Gave a guest lecture on Transformers to an undergraduate CL course at Tilburg University.
 * __Mar 2023__: New blog [post](https://hmohebbi.github.io/blog/value-zeroing): A few thoughts on why Value Zeroing.
 * __Jan 2023__: 🥳 [Value Zeroing](https://arxiv.org/abs/2301.12971) is out, a new interpretability method customized for Transformers (accepted to [EACL'23](https://2023.eacl.org/) main conference).
