@@ -21,7 +21,7 @@ layout: default
 
 Hi there!
 
-I'm a __Ph.D.__ candidate at the Department of [CSAI](https://www.tilburguniversity.edu/about/schools/tshd/departments/dca) at [Tilburg University](https://www.tilburguniversity.edu/). I'm part of the NWO-funded project [InDeep: Interpreting Deep Learning Models for Text and Sound](https://interpretingdl.github.io/), and happy to be supervised by [Afra Alishahi](http://afra.alishahi.name/), [Willem Zuidema](https://staff.fnwi.uva.nl/w.zuidema/), and [Grzegorz Chrupała](https://grzegorz.chrupala.me/).
+I'm a second-year __Ph.D.__ candidate at the Department of [CSAI](https://www.tilburguniversity.edu/about/schools/tshd/departments/dca) at [Tilburg University](https://www.tilburguniversity.edu/). I'm part of the NWO-funded project [InDeep: Interpreting Deep Learning Models for Text and Sound](https://interpretingdl.github.io/), and happy to be supervised by [Afra Alishahi](http://afra.alishahi.name/), [Willem Zuidema](https://staff.fnwi.uva.nl/w.zuidema/), and [Grzegorz Chrupała](https://grzegorz.chrupala.me/).
 
 My research focuses on __analyzing and interpreting deep neural language models__ (both written and spoken) by treating them as mathematical functions rather than mere black boxes that take inputs and give outputs. I aim to develop analysis methods that can faithfully elucidate the intricate interplay and flows of information within neural networks.
 
