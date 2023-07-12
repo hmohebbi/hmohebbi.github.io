@@ -14,16 +14,16 @@ layout: default
 <!-- (comment) the image below can be found in img folder of this very project-->
 
 <!-- ![me](/resources/people/me_3.jpg){: style="float: right; margin: 40px 30px; width: 180px;"} -->
-<figure style="float: right; margin: 40px 28px;">
-  <img src="/resources/people/me_3.jpg" alt="Me" style="width: 180px;">
-  <figcaption style="display: block; text-align: center;"><span class="note">(Twister and me)</span></figcaption>
+<figure style="float: right; margin: 40px 30px;">
+  <img src="/resources/people/me.jpg" alt="Me" style="width: 180px;">
+  <!-- <figcaption style="display: block; text-align: center;"><span class="note">(Twister and me)</span></figcaption> -->
 </figure>
 
 Hi there!
 
 I'm a second-year __Ph.D.__ candidate at the Department of [CSAI](https://www.tilburguniversity.edu/about/schools/tshd/departments/dca) at [Tilburg University](https://www.tilburguniversity.edu/). I'm part of the NWO-funded project [InDeep: Interpreting Deep Learning Models for Text and Sound](https://interpretingdl.github.io/), and happy to be supervised by [Afra Alishahi](http://afra.alishahi.name/), [Willem Zuidema](https://staff.fnwi.uva.nl/w.zuidema/), and [Grzegorz Chrupała](https://grzegorz.chrupala.me/).
 
-My research focuses on __analyzing and interpreting deep neural language models__ (both written and spoken) by treating them as mathematical functions rather than mere black boxes that take inputs and give outputs. I aim to develop analysis methods that can faithfully elucidate the intricate interplay and flows of information within neural networks.
+My research focuses on __analyzing and interpreting deep neural language models__ (both written and spoken) by treating them as mathematical functions rather than mere black boxes that take inputs and give outputs. I aim to develop analysis methods that can faithfully elucidate intricate interplays and flows of information within neural networks.
 
 Previously, I completed my Master’s degree in Artificial Intelligence at [Iran University of Science and Technology](http://www.iust.ac.ir/en), where my research revolved around the interpretation and inference acceleration of pre-trained language models, under the supervision of [Mohammad Taher Pilehvar](https://pilehvar.github.io/).
 
