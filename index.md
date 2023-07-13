@@ -25,7 +25,7 @@ I'm a second-year __Ph.D.__ candidate at the Department of [CSAI](https://www.ti
 
 My research focuses on __analyzing and interpreting deep neural language models__ (both written and spoken) by treating them as mathematical functions, rather than mere black boxes that take inputs and give outputs. I aim to develop analysis methods that can elucidate the interplay and flow of information within neural networks.
 
-Previously, I completed my Master’s degree in Artificial Intelligence at [Iran University of Science and Technology](http://www.iust.ac.ir/en), where my research revolved around the interpretation and inference acceleration of pre-trained language models, under the supervision of [Mohammad Taher Pilehvar](https://pilehvar.github.io/).
+Previously, I completed my Master’s degree in Artificial Intelligence at [Iran University of Science and Technology](http://www.iust.ac.ir/en), where my research revolved around interpretation of pre-trained language models and utilizing interpretability techniques to accelerate their inference time, under the supervision of [Mohammad Taher Pilehvar](https://pilehvar.github.io/).
 
 Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi University of Mashhad](https://en.um.ac.ir/). During that, I was working under the supervision of [Ahad Harati](http://a.harati.profcms.um.ac.ir/) as a team member of the Nexus RoboCup Simulation Team.
 
