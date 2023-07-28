@@ -21,19 +21,19 @@ layout: default
 
 Hi there!
 
-I'm a second-year __Ph.D.__ candidate at the Department of [CSAI](https://www.tilburguniversity.edu/about/schools/tshd/departments/dca) at [Tilburg University](https://www.tilburguniversity.edu/). I'm part of the NWO-funded project [InDeep: Interpreting Deep Learning Models for Text and Sound](https://interpretingdl.github.io/), and happy to be supervised by [Afra Alishahi](http://afra.alishahi.name/), [Willem Zuidema](https://staff.fnwi.uva.nl/w.zuidema/), and [Grzegorz Chrupała](https://grzegorz.chrupala.me/).
+I'm a second-year __Ph.D.__ candidate at the Department of [CSAI](https://www.tilburguniversity.edu/about/schools/tshd/departments/dca) at [Tilburg University](https://www.tilburguniversity.edu/). I'm part of the NWO-funded project [InDeep: Interpreting Deep Learning Models for Text and Sound](https://projects.illc.uva.nl/indeep/), and happy to be supervised by [Afra Alishahi](http://afra.alishahi.name/), [Willem Zuidema](https://staff.fnwi.uva.nl/w.zuidema/), and [Grzegorz Chrupała](https://grzegorz.chrupala.me/).
 
-My research focuses on __analyzing and interpreting deep neural language models__ (both written and spoken) by treating them as mathematical functions, rather than mere black boxes that take inputs and give outputs. I aim to develop analysis methods that can elucidate the interplay and flow of information within neural networks.
+My research focuses on __analyzing and interpreting deep neural models of language__ (both written and spoken) by treating them as mathematical functions, rather than mere black boxes that take inputs and give outputs. I try to develop analysis methods that can faithfully elucidate the interplay and flow of information within neural networks.
 
-Previously, I completed my Master’s degree in Artificial Intelligence at [Iran University of Science and Technology](http://www.iust.ac.ir/en), where my research revolved around interpretation of pre-trained language models and utilizing interpretability techniques to accelerate their inference time, under the supervision of [Mohammad Taher Pilehvar](https://pilehvar.github.io/).
+Previously, I completed my Master’s degree in Artificial Intelligence at [Iran University of Science and Technology](http://www.iust.ac.ir/en), where my research revolved around the interpretation of pre-trained language models and utilization of interpretability techniques to accelerate their inference time, under the supervision of [Mohammad Taher Pilehvar](https://pilehvar.github.io/).
 
 Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi University of Mashhad](https://en.um.ac.ir/). During that, I was working under the supervision of [Ahad Harati](http://a.harati.profcms.um.ac.ir/) as a team member of the Nexus RoboCup Simulation Team.
 
 
 
 ## <span style="color:#424242">Services </span>
-* Reviewed for: [ACL'23](https://2023.aclweb.org/), [EACL'23](https://2023.eacl.org/), [EMNLP'22](https://2022.emnlp.org/), [ACL Rolling Review 2022](https://aclrollingreview.org/)
-* Co-organizer of: [InDeep](https://interpretingdl.github.io/) Journal Club, [BlackboxNLP 2023](https://blackboxnlp.github.io/) Workshop
+* Reviewed for: EMNLP'23, ACL'23, EACL'23, ACL Rolling Review 2022
+* Co-organizer of: [InDeep](https://projects.illc.uva.nl/indeep/) Journal Club, [BlackboxNLP 2023](https://blackboxnlp.github.io/) Workshop
 
 ## <span style="color:#424242">News </span>
 * __Jun 2023__: Invited talk on "context mixing in Transformers" at [GroNLP](https://www.rug.nl/research/clcg/research/cl/), University of Groningen.
@@ -42,10 +42,10 @@ Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi Univer
 * __Jan 2023__: 🥳 [Value Zeroing](https://arxiv.org/abs/2301.12971) is out, a new interpretability method customized for Transformers (accepted to [EACL'23](https://2023.eacl.org/) main conference).
 * __Jan 2023__: Presented a poster at [ALiAS'23](https://staff.fnwi.uva.nl/w.zuidema/alias-2023/).
 * __Dec 2022__: [BlackboxNLP](https://blackboxnlp.github.io/) will be back in 2023 at EMNLP! Happy to be serving as a co-organizer.
-* __Sep 2022__: Gave a guest lecture on Interpretability with Transformers to a graduate Interpretability course at Tilburg University. \[[slides](https://drive.google.com/file/d/1Z39YSfzpzzkqAiMxVdW1nOkudfYVgj_y/view?usp=sharing)\]
-* __May 2022__: Gave a short talk at [InDeep](https://interpretingdl.github.io/) workshop at the University of Amsterdam.
+* __Sep 2022__: Gave a guest lecture on "Interpretability of Transformers" to a graduate Advanced Deep Learning course at Tilburg University. \[[slides](https://drive.google.com/file/d/1Z39YSfzpzzkqAiMxVdW1nOkudfYVgj_y/view?usp=sharing)\]
+* __May 2022__: Gave a short talk at [InDeep](https://projects.illc.uva.nl/indeep/) workshop at the University of Amsterdam.
 * __Feb 2022__: 🥳 [AdapLeR](https://aclanthology.org/2022.acl-long.1/) is out, up to 22x infrence speedup while retaining performance ([ACL'22](https://www.2022.aclweb.org/) main).
-* __Nov 2021__: Moved to the Netherlands to join the consortium project [InDeep](https://interpretingdl.github.io/).
+* __Nov 2021__: Moved to the Netherlands to join the consortium project: [InDeep](https://interpretingdl.github.io/).
 * __Sep 2021__: 🎓 Successfully defended my Master's thesis titled "Interpretability and Transferability of Linguistic Knowledge in Pre-trained Language Models".
 * __Sep 2021__: 🥳 Two papers accepted to [EMNLP'21](https://2021.emnlp.org/) (main conference and BlackboxNLP).
 * __Jun 2021__: Invited talk at Cambridge/Cardiff Workshop in Natural Language Processing.
