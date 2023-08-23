@@ -32,8 +32,8 @@ Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi Univer
 
 
 ## <span style="color:#424242">Services </span>
-* I'm co-organizing: [InDeep](https://projects.illc.uva.nl/indeep/) Journal Club, [BlackboxNLP 2023](https://blackboxnlp.github.io/) Workshop
-* I reviewed for: EMNLP'23, ACL'23, EACL'23, ACL Rolling Review 2022
+* I'm a co-organizer of: [InDeep](https://projects.illc.uva.nl/indeep/) Journal Club, [BlackboxNLP 2023](https://blackboxnlp.github.io/) Workshop
+* I reviewed for the following conferences: EMNLP'23, ACL'23, EACL'23, ACL Rolling Review 2022
 
 ## <span style="color:#424242">News </span>
 * __Jun 2023__: Invited talk on "context mixing in Transformers" at [GroNLP](https://www.rug.nl/research/clcg/research/cl/), University of Groningen.
