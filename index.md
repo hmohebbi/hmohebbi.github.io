@@ -38,6 +38,7 @@ Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi Univer
 
 ## <span style="color:#424242">News and Activities </span>
 * __Oct 2023__: New pre-print: [DecoderLens: Layerwise Interpretation of Encoder-Decoder Transformers](https://arxiv.org/abs/2310.03686)
+* __Sep 2023__: Serving as a TA for two courses at Tilburg University in 2023: Methods for Responsible AI and Machine Learning.
 * __Jun 2023__: Invited talk on "context mixing in Transformers" at [GroNLP](https://www.rug.nl/research/clcg/research/cl/), University of Groningen.
 * __May 2023__: Gave a guest lecture on Transformers to an undergraduate CL course at Tilburg University.
 * __Mar 2023__: New blog [post](https://hmohebbi.github.io/blog/value-zeroing): A few thoughts on why Value Zeroing.
