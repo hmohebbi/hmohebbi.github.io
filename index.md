@@ -33,10 +33,11 @@ Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi Univer
 
 
 ## <span style="color:#424242">Services </span>
-* I'm a co-organizer of: [InDeep](https://projects.illc.uva.nl/indeep/) Journal Club, [BlackboxNLP 2023](https://blackboxnlp.github.io/) Workshop
+* I'm co-organizing: [InDeep](https://projects.illc.uva.nl/indeep/) Journal Club, [BlackboxNLP 2023](https://blackboxnlp.github.io/), 2024 Workshops
 * I reviewed for the following conferences: EMNLP'23, ACL'23, EACL'23, ACL Rolling Review 2022
 
-## <span style="color:#424242">News </span>
+## <span style="color:#424242">News and Activities </span>
+* __Oct 2023__: New pre-print: [DecoderLens: Layerwise Interpretation of Encoder-Decoder Transformers]()
 * __Jun 2023__: Invited talk on "context mixing in Transformers" at [GroNLP](https://www.rug.nl/research/clcg/research/cl/), University of Groningen.
 * __May 2023__: Gave a guest lecture on Transformers to an undergraduate CL course at Tilburg University.
 * __Mar 2023__: New blog [post](https://hmohebbi.github.io/blog/value-zeroing): A few thoughts on why Value Zeroing.
