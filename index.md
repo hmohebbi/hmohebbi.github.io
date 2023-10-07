@@ -37,6 +37,7 @@ Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi Univer
 * I reviewed for the following conferences: EMNLP'23, ACL'23, EACL'23, ACL Rolling Review 2022
 
 ## <span style="color:#424242">News and Activities </span>
+* __Oct 2023__: 🥳 New paper accepted to [EMNLP'23](https://2023.emnlp.org/) main! More info coming soon.
 * __Oct 2023__: New pre-print: [DecoderLens: Layerwise Interpretation of Encoder-Decoder Transformers](https://arxiv.org/abs/2310.03686)
 * __Sep 2023__: Serving as a TA for two courses at Tilburg University in 2023: Methods for Responsible AI and Machine Learning.
 * __Jun 2023__: Invited talk on "context mixing in Transformers" at [GroNLP](https://www.rug.nl/research/clcg/research/cl/), University of Groningen.
