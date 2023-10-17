@@ -38,7 +38,7 @@ Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi Univer
 
 ## <span style="color:#424242">News and Activities </span>
 * __Oct 2023__: Our tutorial on "Transformer-specific Interpretability" will be presented at [EACL'24](https://2024.eacl.org/).
-* __Oct 2023__: 🥳 New paper accepted to [EMNLP'23](https://2023.emnlp.org/) main! The pre-print coming soon.
+* __Oct 2023__: 🥳 New [paper](https://arxiv.org/abs/2310.09925) on model interpretability for spoken language accepted to [EMNLP'23](https://2023.emnlp.org/) main!
 * __Oct 2023__: New pre-print: [DecoderLens: Layerwise Interpretation of Encoder-Decoder Transformers](https://arxiv.org/abs/2310.03686)
 * __Sep 2023__: Serving as a TA for two courses at Tilburg University in 2023: Methods for Responsible AI and Machine Learning.
 * __Jun 2023__: Invited talk on "context mixing in Transformers" at [GroNLP](https://www.rug.nl/research/clcg/research/cl/), University of Groningen.
