@@ -6,6 +6,8 @@ permalink: /publications/
 
 # Publications
 
+H. Mohebbi, G. Chrupała, W. Zuidema, A. Alishahi. Homophone Disambiguation Reveals Patterns of Context Mixing in Speech Transformers. EMNLP 2023. [[Paper](https://arxiv.org/abs/2310.09925)] [[Code](https://github.com/hmohebbi/ContextMixingASR)]
+
 H. Mohebbi, W. Zuidema, G. Chrupała, A. Alishahi. Quantifying Context Mixing in Transformers. EACL 2023. [[Paper](https://aclanthology.org/2023.eacl-main.245/)] [[Code](https://github.com/hmohebbi/ValueZeroing)] [[Blog](https://hmohebbi.github.io/blog/value-zeroing)] [[Demo](https://huggingface.co/spaces/amsterdamNLP/value-zeroing)]
 
 A. Modarressi, H. Mohebbi, M. T. Pilehvar. AdapLeR: Speeding up Inference by Adaptive Length Reduction. ACL 2022. [[Paper](https://aclanthology.org/2022.acl-long.1/)] [[Code](https://github.com/amodaresi/AdapLeR)] [[Blog](http://www.amodarressi.com/AdapLeR/)]
