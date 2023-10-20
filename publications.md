@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-# Publications
+## Publications
 
 H. Mohebbi, G. Chrupała, W. Zuidema, A. Alishahi. Homophone Disambiguation Reveals Patterns of Context Mixing in Speech Transformers. EMNLP 2023. [[Paper](https://arxiv.org/abs/2310.09925)] [[Code](https://github.com/hmohebbi/ContextMixingASR)]
 

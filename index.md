@@ -19,28 +19,31 @@ layout: default
   <!-- <figcaption style="display: block; text-align: center;"><span class="note">(Twister and me)</span></figcaption> -->
 </figure>
 
+
 Hi there!
 
 I'm a second-year __Ph.D.__ candidate at the Department of [CSAI](https://www.tilburguniversity.edu/about/schools/tshd/departments/dca) at [Tilburg University](https://www.tilburguniversity.edu/). I'm part of the consortium project [InDeep: Interpreting Deep Learning Models for Text and Sound](https://projects.illc.uva.nl/indeep/), and happy to be supervised by [Afra Alishahi](http://afra.alishahi.name/), [Willem Zuidema](https://staff.fnwi.uva.nl/w.zuidema/), and [Grzegorz Chrupała](https://grzegorz.chrupala.me/).
 
 My research focuses on __analyzing and interpreting deep neural models of language__ (both written and spoken) by treating them as mathematical functions, rather than mere black boxes that take inputs and give outputs. I try to develop analysis methods that can faithfully elucidate the interplay and flow of information within neural networks.
 
-## <span style="color:#424242">Background </span>
+## Background
+<!-- ## <span style="color:#424242">Background </span> -->
 I completed my Master’s degree in Artificial Intelligence at [Iran University of Science and Technology](http://www.iust.ac.ir/en), where my research revolved around the interpretation of pre-trained language models and the utilization of interpretability techniques to accelerate their inference time, under the supervision of [Mohammad Taher Pilehvar](https://pilehvar.github.io/).
 
 Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi University of Mashhad](https://en.um.ac.ir/). During that, I was working under the supervision of [Ahad Harati](http://a.harati.profcms.um.ac.ir/) as a team member of the Nexus RoboCup Simulation Team.
 
 
-
-## <span style="color:#424242">Services </span>
+## Services
+<!-- ## <span style="color:#424242">Services </span> -->
 * I'm co-organizing: [InDeep](https://projects.illc.uva.nl/indeep/) Journal Club, [BlackboxNLP 2023](https://blackboxnlp.github.io/), 2024 Workshops
 * I reviewed for the following conferences: EMNLP'23, ACL'23, EACL'23, ACL Rolling Review 2022
 
-## <span style="color:#424242">News and Activities </span>
+## News and Activities
+<!-- ## <span style="color:#424242">News and Activities </span> -->
 * __Oct 2023__: Our tutorial on "Transformer-specific Interpretability" will be presented at [EACL'24](https://2024.eacl.org/).
 * __Oct 2023__: 🥳 New [paper](https://arxiv.org/abs/2310.09925) on model interpretability for spoken language accepted to [EMNLP'23](https://2023.emnlp.org/) main!
 * __Oct 2023__: New pre-print: [DecoderLens: Layerwise Interpretation of Encoder-Decoder Transformers](https://arxiv.org/abs/2310.03686)
-* __Sep 2023__: Serving as a TA for two courses at Tilburg University in 2023: Methods for Responsible AI and Machine Learning.
+<!-- * __Sep 2023__: Serving as a TA for two courses at Tilburg University in 2023: Methods for Responsible AI and Machine Learning. -->
 * __Jun 2023__: Invited talk on "context mixing in Transformers" at [GroNLP](https://www.rug.nl/research/clcg/research/cl/), University of Groningen.
 * __May 2023__: Gave a guest lecture on Transformers to an undergraduate CL course at Tilburg University.
 * __Mar 2023__: New blog [post](https://hmohebbi.github.io/blog/value-zeroing): A few thoughts on why Value Zeroing.
