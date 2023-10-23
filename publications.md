@@ -51,7 +51,7 @@ H. Mohebbi, A. Modarressi, M. T. Pilehvar. Exploring the Role of BERT Token Repr
 <ui>
 <b>Not All Models Localize Linguistic Knowledge in the Same Place: A Layer-wise Probing on BERToids' Representations</b>
 <br>Mohsen Fayyaz, Ehsan Aghazadeh, Ali Modarressi, Hosein Mohebbi, Mohammad Taher Pilehvar<br>
-<i>In Proceedings of BlackboxNLP 2021</i> 2023<br>
+<i>In Proceedings of BlackboxNLP</i> 2021<br>
 <a href="https://aclanthology.org/2021.blackboxnlp-1.29/" target="_blank">paper</a>
 <br><br>
 </ui>
