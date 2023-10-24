@@ -8,8 +8,8 @@ permalink: /teaching/
 ## Teaching Assistant
 
 Present
-* Machine Learning, Tilburg University, Winter 2023
-* Methods for Responsible AI, Tilburg University, Winter 2023
+* Machine Learning, Tilburg University, Fall 2023
+* Methods for Responsible AI, Tilburg University, Fall 2023
 
 Past
 * Natural Language Processing, Khatam University, Winter 2021
