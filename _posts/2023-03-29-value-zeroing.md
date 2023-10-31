@@ -72,7 +72,7 @@ Here's a graph I really like, showing Value Zeroing scores for [RoBERTa](https:/
 * In the final layer, there are only high values on the diagonal (hardly any mixing).
 
   
-🤗 Try your own examples in our online [demo](https://huggingface.co/spaces/amsterdamNLP/value-zeroing).
+<span class="emoji" style="--emoji-size: 18px;">🤗</span> Try your own examples in our online [demo](https://huggingface.co/spaces/amsterdamNLP/value-zeroing).
 <br>
 
 ### Your thoughts and comments
