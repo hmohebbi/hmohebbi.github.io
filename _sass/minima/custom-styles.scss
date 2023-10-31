@@ -40,3 +40,7 @@
     font-weight: 300;
     font-size: 14px;
 }
+
+.emoji {
+    font: 300 var(--emoji-size, 15px) Roboto;
+}
