@@ -22,9 +22,9 @@ layout: default
 
 Hi there!
 
-I'm a second-year __Ph.D.__ candidate at the Department of [CSAI](https://www.tilburguniversity.edu/about/schools/tshd/departments/dca) at [Tilburg University](https://www.tilburguniversity.edu/). I'm part of the consortium project [InDeep: Interpreting Deep Learning Models for Text and Sound](https://projects.illc.uva.nl/indeep/), and happy to be supervised by [Afra Alishahi](http://afra.alishahi.name/), [Willem Zuidema](https://staff.fnwi.uva.nl/w.zuidema/), and [Grzegorz Chrupała](https://grzegorz.chrupala.me/).
+I'm a third-year __Ph.D.__ candidate at the Department of [CSAI](https://www.tilburguniversity.edu/about/schools/tshd/departments/dca) at [Tilburg University](https://www.tilburguniversity.edu/). I'm part of the consortium project [InDeep: Interpreting Deep Learning Models for Text and Sound](https://projects.illc.uva.nl/indeep/), and happy to be supervised by [Afra Alishahi](http://afra.alishahi.name/), [Willem Zuidema](https://staff.fnwi.uva.nl/w.zuidema/), and [Grzegorz Chrupała](https://grzegorz.chrupala.me/).
 
-My research focuses on __analyzing and interpreting deep neural models of language__ (both written and spoken) by treating them as mathematical functions, rather than mere black boxes that take inputs and give outputs. I try to develop analysis methods that can faithfully elucidate the interplay and flow of information within neural networks.
+My research focuses on __analyzing and interpreting deep neural models of language__ (both written and spoken) by treating them as mathematical functions. I try to develop analysis methods that can faithfully elucidate the interplay and flow of information within neural networks.
 
 ## Background
 <!-- ## <span style="color:#424242">Background </span> -->
@@ -35,7 +35,7 @@ Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi Univer
 
 ## Services
 <!-- ## <span style="color:#424242">Services </span> -->
-* I'm co-organizing: [InDeep](https://projects.illc.uva.nl/indeep/) Journal Club, [BlackboxNLP 2023](https://blackboxnlp.github.io/), 2024 Workshops
+* I'm co-organizing: [InDeep](https://projects.illc.uva.nl/indeep/) Journal Club, [BlackboxNLP 2023](https://blackboxnlp.github.io/)-2024 Workshops
 * I reviewed for the following conferences: EMNLP'23, ACL'23, EACL'23, ACL Rolling Review 2022
 
 ## News and Activities
