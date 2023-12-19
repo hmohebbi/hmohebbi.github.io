@@ -7,19 +7,19 @@ permalink: /publications/
 ## Publications
 
 <ui>
+<b>DecoderLens: Layerwise Interpretation of Encoder-Decoder Transformers</b>
+<br>Anna Langedijk, Hosein Mohebbi, Gabriele Sarti, Willem Zuidema, Jaap Jumelet<br>
+<i>Preprint</i> 2023<br>
+<a href="https://arxiv.org/abs/2310.03686" target="_blank">paper</a>
+<br><br>
+</ui>
+
+<ui>
 <b>Homophone Disambiguation Reveals Patterns of Context Mixing in Speech Transformers</b>
 <br>Hosein Mohebbi, Grzegorz Chrupała, Willem Zuidema, Afra Alishahi<br>
 <span class="emoji">🏅</span> <b>Outstanding Paper Award</b><br>
 <i>In Proceedings of EMNLP</i> 2023<br>
 <a href="https://arxiv.org/abs/2310.09925" target="_blank">paper</a> | <a href="https://github.com/hmohebbi/ContextMixingASR" target="_blank">code</a>
-<br><br>
-</ui>
-
-<ui>
-<b>DecoderLens: Layerwise Interpretation of Encoder-Decoder Transformers</b>
-<br>Anna Langedijk, Hosein Mohebbi, Gabriele Sarti, Willem Zuidema, Jaap Jumelet<br>
-<i>Preprint</i> 2023<br>
-<a href="https://arxiv.org/abs/2310.03686" target="_blank">paper</a>
 <br><br>
 </ui>
 
