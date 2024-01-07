@@ -7,7 +7,7 @@ permalink: /teaching/
 
 ## Tutorials
 Upcoming
-* Transformer-specific Interpretability, 18th Conference of the European Chapter of the Association for Computational Linguistics ([EACL](https://2024.eacl.org/program/tutorials/)), March 2024
+* Transformer-specific Interpretability, EACL 2024 conference, March 2024
 
 
 ## Teaching Assistant
