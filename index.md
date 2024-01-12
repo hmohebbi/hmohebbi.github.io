@@ -24,6 +24,9 @@ Hi there!
 
 I'm a third-year __PhD__ candidate at the Department of [CSAI](https://www.tilburguniversity.edu/about/schools/tshd/departments/dca) at [Tilburg University](https://www.tilburguniversity.edu/). I'm part of the consortium project [InDeep: Interpreting Deep Learning Models for Text and Sound](https://projects.illc.uva.nl/indeep/), and happy to be supervised by [Afra Alishahi](http://afra.alishahi.name/), [Willem Zuidema](https://staff.fnwi.uva.nl/w.zuidema/), and [Grzegorz Chrupała](https://grzegorz.chrupala.me/).
 
+Currently, I'm doing a research visit at [ILCC, University of Edinburgh](https://web.inf.ed.ac.uk/ilcc), working with [Ivan Titov](http://ivan-titov.org/).
+
+## Research
 My research focuses on __analyzing and interpreting deep neural models of language__ (written or spoken) by treating them as mathematical functions. I try to develop analysis methods that can faithfully elucidate the interplay and flow of information within neural networks.
 
 ## Background
@@ -41,6 +44,7 @@ Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi Univer
 ## News and Activities
 <!-- ## <span style="color:#424242">News and Activities </span> -->
 * <span class="emoji">🚀</span> Our tutorial on "Transformer-specific Interpretability" will be presented at [EACL 2024](https://2024.eacl.org/program/tutorials/).
+* __Jan 2024__: Starting a research visit at ILCC, University of Edinburgh.
 * __Dec 2023__: <span class="emoji">🏅</span> Got an Outstanding Paper Award for [Homophone Disambiguation Reveals Patterns of Context Mixing in Speech Transformers](https://aclanthology.org/2023.emnlp-main.513/) at EMNLP 2023!
 * __Oct 2023__: <span class="emoji">🥳</span> New [paper](https://arxiv.org/abs/2310.09925) on model interpretability for spoken language accepted to [EMNLP'23](https://2023.emnlp.org/) main!
 * __Oct 2023__: New pre-print: [DecoderLens: Layerwise Interpretation of Encoder-Decoder Transformers](https://arxiv.org/abs/2310.03686)
