@@ -24,7 +24,7 @@ Hi there!
 
 I'm a third-year __PhD__ candidate at the Department of [CSAI](https://www.tilburguniversity.edu/about/schools/tshd/departments/dca) at [Tilburg University](https://www.tilburguniversity.edu/). I'm part of the consortium project [InDeep: Interpreting Deep Learning Models for Text and Sound](https://projects.illc.uva.nl/indeep/), and happy to be supervised by [Afra Alishahi](http://afra.alishahi.name/), [Willem Zuidema](https://staff.fnwi.uva.nl/w.zuidema/), and [Grzegorz Chrupała](https://grzegorz.chrupala.me/).
 
-Currently, I'm doing a research visit at [ILCC, University of Edinburgh](https://web.inf.ed.ac.uk/ilcc), working with [Ivan Titov](http://ivan-titov.org/).
+Currently, I'm doing a research visit at [ILCC, School of Informatics, University of Edinburgh](https://web.inf.ed.ac.uk/ilcc), working with [Ivan Titov](http://ivan-titov.org/).
 
 ## Research
 My research focuses on __analyzing and interpreting deep neural models of language__ (written or spoken) by treating them as mathematical functions. I try to develop analysis methods that can faithfully elucidate the interplay and flow of information within neural networks.
