@@ -44,7 +44,7 @@ Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi Univer
 ## News and Activities
 <!-- ## <span style="color:#424242">News and Activities </span> -->
 * <span class="emoji">🚀</span> Our tutorial on "Transformer-specific Interpretability" will be presented at [EACL 2024](https://2024.eacl.org/program/tutorials/).
-* __Jan 2024__: Starting a research visit at ILCC, University of Edinburgh.
+* __Jan 2024__: Moved to UK to do a research visit at ILCC, University of Edinburgh.
 * __Dec 2023__: <span class="emoji">🏅</span> Got an Outstanding Paper Award for [Homophone Disambiguation Reveals Patterns of Context Mixing in Speech Transformers](https://aclanthology.org/2023.emnlp-main.513/) at EMNLP 2023!
 * __Oct 2023__: <span class="emoji">🥳</span> New [paper](https://arxiv.org/abs/2310.09925) on model interpretability for spoken language accepted to [EMNLP'23](https://2023.emnlp.org/) main!
 * __Oct 2023__: New pre-print: [DecoderLens: Layerwise Interpretation of Encoder-Decoder Transformers](https://arxiv.org/abs/2310.03686)
