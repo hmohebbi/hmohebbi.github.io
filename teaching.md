@@ -5,7 +5,7 @@ permalink: /teaching/
 ---
 
 
-## Tutorials
+## Tutorial Instructor
 Upcoming
 * Transformer-specific Interpretability, EACL 2024 conference, March 2024 [[webpage](https://projects.illc.uva.nl/indeep/tutorial/)]
 
