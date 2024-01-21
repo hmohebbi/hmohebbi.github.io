@@ -41,7 +41,7 @@ Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi Univer
 * I'm co-organizing: [InDeep](https://projects.illc.uva.nl/indeep/) Journal Club (since 2022), [BlackboxNLP](https://blackboxnlp.github.io/) Workshop (since 2023)
 * I reviewed for the following conferences: EMNLP (2022, 2023), ACL 2023, EACL 2023, ACL Rolling Review (since 2022)
 
-## News and Activities
+## News 
 <!-- ## <span style="color:#424242">News and Activities </span> -->
 * <span class="emoji">🚀</span> Our tutorial on "Transformer-specific Interpretability" will be presented at [EACL 2024](https://2024.eacl.org/program/tutorials/).
 * __Jan 2024__: Moved to UK to do a research visit at ILCC, University of Edinburgh.
