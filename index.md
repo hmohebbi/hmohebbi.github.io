@@ -48,18 +48,18 @@ Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi Univer
 * __Dec 2023__: <span class="emoji">🏅</span> Got an Outstanding Paper Award for [Homophone Disambiguation Reveals Patterns of Context Mixing in Speech Transformers](https://aclanthology.org/2023.emnlp-main.513/) at EMNLP 2023!
 * __Oct 2023__: <span class="emoji">🥳</span> New [paper](https://arxiv.org/abs/2310.09925) on model interpretability for spoken language accepted to [EMNLP'23](https://2023.emnlp.org/) main!
 * __Oct 2023__: New pre-print: [DecoderLens: Layerwise Interpretation of Encoder-Decoder Transformers](https://arxiv.org/abs/2310.03686)
-* __Jun 2023__: Invited talk on "context mixing in Transformers" at [GroNLP](https://www.rug.nl/research/clcg/research/cl/), University of Groningen.
-* __May 2023__: Gave a guest lecture on Transformers to an undergraduate CL course at Tilburg University.
+<!-- * __Jun 2023__: Invited talk on "Context Mixing in Transformers" at [GroNLP](https://www.rug.nl/research/clcg/research/cl/), University of Groningen. -->
+<!-- * __May 2023__: Gave a guest lecture on Transformers to an undergraduate CL course at Tilburg University. -->
 * __Mar 2023__: New blog [post](https://hmohebbi.github.io/blog/value-zeroing): A few thoughts on why Value Zeroing.
 * __Jan 2023__: <span class="emoji">🥳</span> [Value Zeroing](https://arxiv.org/abs/2301.12971) is out, a new interpretability method customized for Transformers (accepted to [EACL'23](https://2023.eacl.org/) main conference).
 * __Jan 2023__: Presented a poster at [ALiAS'23](https://staff.fnwi.uva.nl/w.zuidema/alias-2023/).
 * __Dec 2022__: [BlackboxNLP](https://blackboxnlp.github.io/) will be back in 2023 at EMNLP! Happy to be serving as a co-organizer.
-* __Sep 2022__: Gave a guest lecture on "Interpretability of Transformers" to a graduate Advanced Deep Learning course at Tilburg University. \[[slides](https://drive.google.com/file/d/1Z39YSfzpzzkqAiMxVdW1nOkudfYVgj_y/view?usp=sharing)\]
-* __May 2022__: Gave a short talk at [InDeep](https://projects.illc.uva.nl/indeep/) workshop at the University of Amsterdam.
+<!-- * __Sep 2022__: Gave a guest lecture on "Interpretability of Transformers" to a graduate Advanced Deep Learning course at Tilburg University. \[[slides](https://drive.google.com/file/d/1Z39YSfzpzzkqAiMxVdW1nOkudfYVgj_y/view?usp=sharing)\] -->
+<!-- * __May 2022__: Gave a short talk at [InDeep](https://projects.illc.uva.nl/indeep/) workshop at the University of Amsterdam. -->
 * __Feb 2022__: <span class="emoji">🥳</span> [AdapLeR](https://aclanthology.org/2022.acl-long.1/) is out, up to 22x infrence speedup while retaining performance ([ACL'22](https://www.2022.aclweb.org/) main).
 * __Nov 2021__: Moved to the Netherlands to join the consortium project: [InDeep](https://interpretingdl.github.io/).
 * __Sep 2021__: <span class="emoji">🎓</span> Successfully defended my Master's thesis titled "Interpretability and Transferability of Linguistic Knowledge in Pre-trained Language Models".
 * __Sep 2021__: <span class="emoji">🥳</span> Two papers accepted to [EMNLP'21](https://2021.emnlp.org/) (main conference and BlackboxNLP).
-* __Jun 2021__: Invited talk at Cambridge/Cardiff Workshop in Natural Language Processing.
-* __May 2021__: Gave a joint guest lecture, with [Ali](https://www.amodarressi.com/), on Interpretability to a graduate [NLP course](https://teias-courses.github.io/nlp99/) at Khatam University. \[[slides](https://drive.google.com/file/d/1cAzlIlbuVAFZXz3gaFGBTRZwjq-_V2lb/view?usp=sharing)\]
+<!-- * __Jun 2021__: Invited talk at Cambridge/Cardiff Workshop in Natural Language Processing. -->
+<!-- * __May 2021__: Gave a joint guest lecture, with [Ali](https://www.amodarressi.com/), on Interpretability to a graduate [NLP course](https://teias-courses.github.io/nlp99/) at Khatam University. \[[slides](https://drive.google.com/file/d/1cAzlIlbuVAFZXz3gaFGBTRZwjq-_V2lb/view?usp=sharing)\] -->
 * __Apr 2021__: Our pre-print intepretability work is ready! [Exploring the Role of BERT Token Representations to Explain Sentence Probing Results](https://arxiv.org/abs/2104.01477).
