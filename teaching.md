@@ -10,7 +10,7 @@ permalink: /teaching/
 
 
 ## Invited Talks
-* __Upcoming__: [TeIAS](https://teias.institute/mohebbi-talk202403/)
+* __Upcoming__: [TeIAS](https://teias.institute/mohebbi-talk202403/), Online
 * __Feb 2024__: [CardiffNLP](https://cardiffnlp.github.io/), Cardiff University
 * __Feb 2024__: [CSTR](https://www.cstr.ed.ac.uk/), University of Edinburgh
 * __Jun 2023__: [GroNLP](https://www.rug.nl/research/clcg/research/cl/), University of Groningen
