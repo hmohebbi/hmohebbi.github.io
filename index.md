@@ -38,7 +38,7 @@ Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi Univer
 
 ## Services
 <!-- ## <span style="color:#424242">Services </span> -->
-* I'm co-organizing: [InDeep Journal Club](https://projects.illc.uva.nl/indeep/events/journal-club/) (since 2022), [BlackboxNLP](https://blackboxnlp.github.io/) Workshop (since 2023)
+* I'm co-organizing: [InDeep Journal Club](https://projects.illc.uva.nl/indeep/events/journal-club/) (since 2022), [BlackboxNLP](https://blackboxnlp.github.io/) Workshop (2023, 2024)
 * I reviewed for the following conferences: EMNLP (2022, 2023), ACL 2023, EACL 2023, ACL Rolling Review (since 2022)
 
 ## News 
