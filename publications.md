@@ -9,7 +9,7 @@ permalink: /publications/
 <ui>
 <b>DecoderLens: Layerwise Interpretation of Encoder-Decoder Transformers</b>
 <br>Anna Langedijk, Hosein Mohebbi, Gabriele Sarti, Willem Zuidema, Jaap Jumelet<br>
-<i>Preprint</i> 2023<br>
+<i>In Findings of NAACL</i> 2024<br>
 <a href="https://arxiv.org/abs/2310.03686" target="_blank">paper</a>
 <br><br>
 </ui>
