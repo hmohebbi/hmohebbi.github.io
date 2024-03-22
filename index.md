@@ -44,7 +44,7 @@ Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi Univer
 ## News 
 <!-- ## <span style="color:#424242">News and Activities </span> -->
 * __Mar 2024__: <span class="emoji">🚀</span> Materials (slides, notebooks, etc.) for [EACL 2024](https://2024.eacl.org/program/tutorials/) tutorial on "Transformer-specific Interpretability" are available [here](https://projects.illc.uva.nl/indeep/tutorial/).
-* __Oct 2023__: [DecoderLens](https://arxiv.org/abs/2310.03686) has been accepted to findings of [NAACL 2024](https://2024.naacl.org/).
+* __Mar 2024__: [DecoderLens](https://arxiv.org/abs/2310.03686) has been accepted to findings of [NAACL 2024](https://2024.naacl.org/).
 * __Jan 2024__: Started a research visit at ILCC, University of Edinburgh.
 * __Dec 2023__: <span class="emoji">🏅</span> Got an Outstanding Paper Award for [Homophone Disambiguation Reveals Patterns of Context Mixing in Speech Transformers](https://aclanthology.org/2023.emnlp-main.513/) at EMNLP 2023!
 <!-- * __Oct 2023__: New [paper](https://arxiv.org/abs/2310.09925) on model interpretability for spoken language accepted to [EMNLP'23](https://2023.emnlp.org/) main! -->
