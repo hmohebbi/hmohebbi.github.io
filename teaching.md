@@ -6,7 +6,7 @@ permalink: /teaching/
 
 
 ## Tutorials
-* __Upcoming__: _"Transformer-specific Interpretability"_, EACL 2024 conference, Malta [[webpage](https://projects.illc.uva.nl/indeep/tutorial/)]
+* __Mar 2024__: _"Transformer-specific Interpretability"_, EACL 2024 conference, Malta [[materials](https://projects.illc.uva.nl/indeep/tutorial/)]
 
 
 ## Invited Talks
