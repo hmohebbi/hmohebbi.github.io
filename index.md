@@ -43,16 +43,16 @@ Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi Univer
 
 ## News 
 <!-- ## <span style="color:#424242">News and Activities </span> -->
-* <span class="emoji">🚀</span> Our tutorial on "Transformer-specific Interpretability" will be presented at [EACL 2024](https://2024.eacl.org/program/tutorials/).
-* __Jan 2024__: Moved to UK to do a research visit at ILCC, University of Edinburgh.
+* __Mar 2024__: <span class="emoji">🚀</span> Materials (slides, notebooks, etc.) for [EACL 2024](https://2024.eacl.org/program/tutorials/) tutorial on "Transformer-specific Interpretability" are available [here](https://projects.illc.uva.nl/indeep/tutorial/).
+* __Oct 2023__: [DecoderLens](https://arxiv.org/abs/2310.03686) has been accepted to findings of [NAACL 2024](https://2024.naacl.org/).
+* __Jan 2024__: Started a research visit at ILCC, University of Edinburgh.
 * __Dec 2023__: <span class="emoji">🏅</span> Got an Outstanding Paper Award for [Homophone Disambiguation Reveals Patterns of Context Mixing in Speech Transformers](https://aclanthology.org/2023.emnlp-main.513/) at EMNLP 2023!
-* __Oct 2023__: New [paper](https://arxiv.org/abs/2310.09925) on model interpretability for spoken language accepted to [EMNLP'23](https://2023.emnlp.org/) main!
-* __Oct 2023__: New pre-print: [DecoderLens: Layerwise Interpretation of Encoder-Decoder Transformers](https://arxiv.org/abs/2310.03686)
+<!-- * __Oct 2023__: New [paper](https://arxiv.org/abs/2310.09925) on model interpretability for spoken language accepted to [EMNLP'23](https://2023.emnlp.org/) main! -->
 <!-- * __Jun 2023__: Invited talk on "Context Mixing in Transformers" at [GroNLP](https://www.rug.nl/research/clcg/research/cl/), University of Groningen. -->
 <!-- * __May 2023__: Gave a guest lecture on Transformers to an undergraduate CL course at Tilburg University. -->
 * __Mar 2023__: New blog [post](https://hmohebbi.github.io/blog/value-zeroing): A few thoughts on why Value Zeroing.
 * __Jan 2023__: [Value Zeroing](https://arxiv.org/abs/2301.12971) is out, a new interpretability method customized for Transformers (accepted to [EACL'23](https://2023.eacl.org/) main conference).
-* __Jan 2023__: Presented a poster at [ALiAS'23](https://staff.fnwi.uva.nl/w.zuidema/alias-2023/).
+<!--* __Jan 2023__: Presented a poster at [ALiAS'23](https://staff.fnwi.uva.nl/w.zuidema/alias-2023/).  -->
 * __Dec 2022__: [BlackboxNLP](https://blackboxnlp.github.io/) will be back in 2023 at EMNLP! Happy to be serving as a co-organizer.
 <!-- * __Sep 2022__: Gave a guest lecture on "Interpretability of Transformers" to a graduate Advanced Deep Learning course at Tilburg University. \[[slides](https://drive.google.com/file/d/1Z39YSfzpzzkqAiMxVdW1nOkudfYVgj_y/view?usp=sharing)\] -->
 <!-- * __May 2022__: Gave a short talk at [InDeep](https://projects.illc.uva.nl/indeep/) workshop at the University of Amsterdam. -->
