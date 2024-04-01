@@ -43,7 +43,7 @@ Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi Univer
 
 ## News 
 <!-- ## <span style="color:#424242">News and Activities </span> -->
-* __Apr 2024__: I'll run for Spierfonds to raise money for research on muscular diseases. You can consider donation [here]!(https://www.spieractie.nl/fundraisers/hosein-mohebbi)
+* __Apr 2024__: I'll run for Spierfonds to raise money for research on muscular diseases. You can consider donation [here](https://www.spieractie.nl/fundraisers/hosein-mohebbi)!
 * __Mar 2024__: <span class="emoji">🚀</span> Materials (slides, notebooks, etc.) for [EACL 2024](https://2024.eacl.org/program/tutorials/) tutorial on "Transformer-specific Interpretability" are available [here](https://github.com/interpretingdl/eacl2024_transformer_interpretability_tutorial).
 * __Mar 2024__: [DecoderLens](https://arxiv.org/abs/2310.03686) has been accepted to findings of [NAACL 2024](https://2024.naacl.org/).
 * __Jan 2024__: Started a research visit at ILCC, University of Edinburgh.
