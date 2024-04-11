@@ -24,16 +24,17 @@ Hi there!
 
 I'm a third-year __PhD__ candidate at the Department of [CSAI](https://www.tilburguniversity.edu/about/schools/tshd/departments/dca) at [Tilburg University](https://www.tilburguniversity.edu/). I'm part of the consortium project [InDeep: Interpreting Deep Learning Models for Text and Sound](https://projects.illc.uva.nl/indeep/), and happy to be supervised by [Afra Alishahi](http://afra.alishahi.name/), [Willem Zuidema](https://staff.fnwi.uva.nl/w.zuidema/), and [Grzegorz Chrupała](https://grzegorz.chrupala.me/).
 
-Currently, I'm doing a research visit at [ILCC, School of Informatics, University of Edinburgh](https://web.inf.ed.ac.uk/ilcc), working with [Ivan Titov](http://ivan-titov.org/).
 
 ## Research
 My research focuses on __analyzing and interpreting deep neural models of language__ (written or spoken) by treating them as mathematical functions. I try to develop analysis methods that can faithfully elucidate the interplay and flow of information within neural networks.
 
 ## Background
 <!-- ## <span style="color:#424242">Background </span> -->
-I completed my Master’s degree in Artificial Intelligence at [Iran University of Science and Technology](http://www.iust.ac.ir/en), where my research revolved around the interpretation of pre-trained language models and the utilization of interpretability techniques to accelerate their inference time, under the supervision of [Mohammad Taher Pilehvar](https://pilehvar.github.io/).
+I was a visiting researcher at [ILCC, School of Informatics, University of Edinburgh](https://web.inf.ed.ac.uk/ilcc), working with [Ivan Titov](http://ivan-titov.org/). (Jan-Mar 2024)
 
-Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi University of Mashhad](https://en.um.ac.ir/). During that, I was working under the supervision of [Ahad Harati](http://a.harati.profcms.um.ac.ir/) as a team member of the Nexus RoboCup Simulation Team.
+I completed my Master’s degree in Artificial Intelligence at [Iran University of Science and Technology](http://www.iust.ac.ir/en), where my research revolved around the interpretation of pre-trained language models and the utilization of interpretability techniques to accelerate their inference time, under the supervision of [Mohammad Taher Pilehvar](https://pilehvar.github.io/). (2019-2021)
+
+Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi University of Mashhad](https://en.um.ac.ir/). During that, I was working under the supervision of [Ahad Harati](http://a.harati.profcms.um.ac.ir/) as a team member of the Nexus RoboCup Simulation Team. (2014-2019)
 
 
 ## Services
