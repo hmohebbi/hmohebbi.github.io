@@ -30,11 +30,11 @@ My research focuses on __analyzing and interpreting deep neural models of langua
 
 ## Background
 <!-- ## <span style="color:#424242">Background </span> -->
-I was a visiting researcher at [ILCC, School of Informatics, University of Edinburgh](https://web.inf.ed.ac.uk/ilcc), working with [Ivan Titov](http://ivan-titov.org/). (Jan-Mar 2024)
+I was a visiting researcher (Jan-Mar 2024) at [ILCC, School of Informatics, University of Edinburgh](https://web.inf.ed.ac.uk/ilcc), working with [Ivan Titov](http://ivan-titov.org/). 
 
-I completed my Master’s degree in Artificial Intelligence at [Iran University of Science and Technology](http://www.iust.ac.ir/en), where my research revolved around the interpretation of pre-trained language models and the utilization of interpretability techniques to accelerate their inference time, under the supervision of [Mohammad Taher Pilehvar](https://pilehvar.github.io/). (2019-2021)
+I completed my Master’s (2019-2021) in Artificial Intelligence at [Iran University of Science and Technology](http://www.iust.ac.ir/en), where my research revolved around the interpretation of pre-trained language models and the utilization of interpretability techniques to accelerate their inference time, under the supervision of [Mohammad Taher Pilehvar](https://pilehvar.github.io/). 
 
-Before that, I got my Bachelor’s in Computer Engineering from [Ferdowsi University of Mashhad](https://en.um.ac.ir/). During that, I was working under the supervision of [Ahad Harati](http://a.harati.profcms.um.ac.ir/) as a team member of the Nexus RoboCup Simulation Team. (2014-2019)
+Before that, I got my Bachelor’s (2014-2019) in Computer Engineering from [Ferdowsi University of Mashhad](https://en.um.ac.ir/). During that, I was working under the supervision of [Ahad Harati](http://a.harati.profcms.um.ac.ir/) as a team member of the Nexus RoboCup Simulation Team. 
 
 
 ## Services
