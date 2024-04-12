@@ -10,6 +10,7 @@ permalink: /teaching/
 
 
 ## Invited Talks
+* __Upcoming__: [CLILLAC-ARP](https://clillac-arp.u-paris.fr/%C3%A9v%C3%A8nement/whisper/), Université Paris Cité, Online
 * __Mar 2024__: [TeIAS](https://teias.institute/mohebbi-talk202403/), Online
 * __Feb 2024__: [CardiffNLP](https://cardiffnlp.github.io/), Cardiff University
 * __Feb 2024__: [CSTR](https://www.cstr.ed.ac.uk/), University of Edinburgh
