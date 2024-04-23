@@ -39,13 +39,15 @@ Before that, I got my Bachelor’s (2014-2019) in Computer Engineering from [Fer
 
 ## Services
 <!-- ## <span style="color:#424242">Services </span> -->
-* I'm co-organizing: [InDeep Journal Club](https://projects.illc.uva.nl/indeep/events/journal-club/) (since 2022), [BlackboxNLP](https://blackboxnlp.github.io/) Workshop (2023, 2024)
-* Gave a tutorial at EACL 2024 conference, on Transformer-specific Interpretability Methods
+* I'm co-organizing:
+  * [InDeep Journal Club](https://projects.illc.uva.nl/indeep/events/journal-club/) (since 2022)
+  * [BlackboxNLP](https://blackboxnlp.github.io/) Workshop (2023, 2024)
+* Co-offered a tutorial at EACL 2024 conference
 * I reviewed for the following conferences: EMNLP (2022, 2023), ACL 2023, EACL 2023, ACL Rolling Review (since 2022)
 
 ## News 
 <!-- ## <span style="color:#424242">News and Activities </span> -->
-* __Apr 2024__: I'll run for Spierfonds to raise money for research on muscular diseases. Your donation [here](https://www.spieractie.nl/fundraisers/hosein-mohebbi) would greatly please me!
+<!-- * __Apr 2024__: I'll run for Spierfonds to raise money for research on muscular diseases. Your donation [here](https://www.spieractie.nl/fundraisers/hosein-mohebbi) would greatly please me! -->
 * __Mar 2024__: <span class="emoji">🚀</span> Materials (slides, notebooks, etc.) for [EACL 2024](https://2024.eacl.org/program/tutorials/) tutorial on "Transformer-specific Interpretability" are available [here](https://github.com/interpretingdl/eacl2024_transformer_interpretability_tutorial).
 * __Mar 2024__: [DecoderLens](https://arxiv.org/abs/2310.03686) has been accepted to findings of [NAACL 2024](https://2024.naacl.org/).
 <!-- * __Jan 2024__: Started a research visit at ILCC, University of Edinburgh. -->
