@@ -18,7 +18,7 @@ permalink: /publications/
 <b>DecoderLens: Layerwise Interpretation of Encoder-Decoder Transformers</b>
 <br>Anna Langedijk, Hosein Mohebbi, Gabriele Sarti, Willem Zuidema, Jaap Jumelet<br>
 <i>In Findings of NAACL</i> 2024<br>
-<a href="https://arxiv.org/abs/2310.03686" target="_blank">paper</a>
+<a href="https://aclanthology.org/2024.findings-naacl.296/" target="_blank">paper</a>
 <br><br>
 </ui>
 
@@ -27,7 +27,7 @@ permalink: /publications/
 <br>Hosein Mohebbi, Grzegorz Chrupała, Willem Zuidema, Afra Alishahi<br>
 <span class="emoji">🏅</span> <b>Outstanding Paper Award</b><br>
 <i>In Proceedings of EMNLP</i> 2023<br>
-<a href="https://arxiv.org/abs/2310.09925" target="_blank">paper</a> | <a href="https://github.com/hmohebbi/ContextMixingASR" target="_blank">code</a>
+<a href="https://aclanthology.org/2023.emnlp-main.513/" target="_blank">paper</a> | <a href="https://github.com/hmohebbi/ContextMixingASR" target="_blank">code</a>
 <br><br>
 </ui>
 
