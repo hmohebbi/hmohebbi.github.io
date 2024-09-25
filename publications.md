@@ -7,6 +7,14 @@ permalink: /publications/
 ## Publications
 
 <ui>
+<b>How Language Models Prioritize Contextual Grammatical Cues?</b>
+<br>Hamidreza Amirzadeh, Afra Alishahi, Hosein Mohebbi<br>
+<i>In Proceedings of BlackboxNLP</i> 2024<br>
+<a href="https://openreview.net/forum?id=XDxNnRHGRp&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DEMNLP%2F2024%2FWorkshop%2FBlackBoxNLP%2FAuthors%23your-submissions)" target="_blank">paper</a>
+<br><br>
+</ui>
+
+<ui>
 <b>DecoderLens: Layerwise Interpretation of Encoder-Decoder Transformers</b>
 <br>Anna Langedijk, Hosein Mohebbi, Gabriele Sarti, Willem Zuidema, Jaap Jumelet<br>
 <i>In Findings of NAACL</i> 2024<br>
