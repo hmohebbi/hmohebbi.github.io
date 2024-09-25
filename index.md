@@ -41,7 +41,7 @@ Before that, I got my Bachelor’s (2014-2019) in Computer Engineering from [Fer
 <!-- ## <span style="color:#424242">Services </span> -->
 * I'm co-organizing:
   * [InDeep Journal Club](https://projects.illc.uva.nl/indeep/events/journal-club/) (since 2022)
-  * [BlackboxNLP](https://blackboxnlp.github.io/) Workshop (2023, 2024)
+  * [BlackboxNLP](https://blackboxnlp.github.io/) Workshop (2023-2025)
 * I co-offered a tutorial at EACL 2024 conference
 * I reviewed for the following conferences: EMNLP (2022, 2023), ACL 2023, EACL 2023, ACL Rolling Review (since 2022)
 
