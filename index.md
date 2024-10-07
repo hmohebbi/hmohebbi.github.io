@@ -47,7 +47,8 @@ Before that, I got my Bachelor’s (2014-2019) in Computer Engineering from [Fer
 
 ## News 
 <!-- ## <span style="color:#424242">News and Activities </span> -->
-* __Sep 2024__: A new paper accepted to BlackboxNLP 2024: [How Language Models Prioritize Contextual Grammatical Cues?](https://openreview.net/forum?id=XDxNnRHGRp&referrer=%5BAuthor%20Console%5D%2Fgroup%3Fid%3DEMNLP%2F2024%2FWorkshop%2FBlackBoxNLP%2FAuthors%23your-submissions)
+* __Oct 2024__: Is it possible to separate the hidden states of modern spoken language models into one vector specialized for transcription to text, and another that preserves task-relevant acoustic features? Check out our new preprint: [Disentangling Textual and Acoustic Features of Neural Speech Representations](https://arxiv.org/abs/2410.03037)
+* __Sep 2024__: A new paper accepted to BlackboxNLP 2024: [How Language Models Prioritize Contextual Grammatical Cues?](https://arxiv.org/abs/2410.03447)
 <!-- * __Apr 2024__: I'll run for Spierfonds to raise money for research on muscular diseases. Your donation [here](https://www.spieractie.nl/fundraisers/hosein-mohebbi) would greatly please me! -->
 * __Mar 2024__: <span class="emoji">🚀</span> Materials (slides, notebooks, etc.) for [EACL 2024](https://2024.eacl.org/program/tutorials/) tutorial on "Transformer-specific Interpretability" are available [here](https://github.com/interpretingdl/eacl2024_transformer_interpretability_tutorial).
 <!--* __Mar 2024__: [DecoderLens](https://arxiv.org/abs/2310.03686) has been accepted to findings of [NAACL 2024](https://2024.naacl.org/). -->
