@@ -37,5 +37,5 @@ permalink: /teaching/
 * __2016-2019__: _Basics of Computer Programming and Algorithms_, Ferdowsi University
 
 ## Students Supervised
-* __2024__: Hamidreza Amirzadeh. MS. Topic: Interpretability. Published at BlackboxNLP 2024.
-* __2021__: Mohsen Fayyaz, Ehsan Aghazadeh. BS. Topic: Interpretability. Published at BlackboxNLP 2021.
+* __2024__: Hamidreza Amirzadeh. MS. Topic: Interpretability (published at BlackboxNLP 2024)
+* __2021__: Mohsen Fayyaz, Ehsan Aghazadeh. BS. Topic: Interpretability (published at BlackboxNLP 2021)
