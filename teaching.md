@@ -36,6 +36,6 @@ permalink: /teaching/
 * __2016-2017__: _Data Structures and Algorithms_, Ferdowsi University
 * __2016-2019__: _Basics of Computer Programming and Algorithms_, Ferdowsi University
 
-## Students Supervised
+## Students Co-supervised
 * __2024__: Hamidreza Amirzadeh. MS. Topic: Interpretability (published at BlackboxNLP 2024)
 * __2021__: Mohsen Fayyaz, Ehsan Aghazadeh. BS. Topic: Interpretability (published at BlackboxNLP 2021)
