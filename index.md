@@ -30,7 +30,7 @@ My research focuses on __analyzing and interpreting deep neural models of langua
 
 ## Background
 <!-- ## <span style="color:#424242">Background </span> -->
-I was a visiting researcher (Jan-Mar 2024) at [ILCC, School of Informatics, University of Edinburgh](https://web.inf.ed.ac.uk/ilcc), working with [Ivan Titov](http://ivan-titov.org/). 
+I was a visiting researcher (Jan-Mar 2024) at [ILCC, School of Informatics, University of Edinburgh](https://web.inf.ed.ac.uk/ilcc), worked with [Ivan Titov](http://ivan-titov.org/). 
 
 I completed my Master’s (2019-2021) in Artificial Intelligence at [Iran University of Science and Technology](http://www.iust.ac.ir/en), where my research revolved around the interpretation of pre-trained language models and the utilization of interpretability techniques to accelerate their inference time, under the supervision of [Mohammad Taher Pilehvar](https://pilehvar.github.io/). 
 
