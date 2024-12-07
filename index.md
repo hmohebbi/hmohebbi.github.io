@@ -22,7 +22,7 @@ layout: default
 
 Hi there!
 
-I'm a third-year __PhD__ candidate at the Department of [CSAI](https://www.tilburguniversity.edu/about/schools/tshd/departments/dca) at [Tilburg University](https://www.tilburguniversity.edu/). I'm part of the consortium project [InDeep: Interpreting Deep Learning Models for Text and Sound](https://projects.illc.uva.nl/indeep/), and happy to be supervised by [Afra Alishahi](http://afra.alishahi.name/), [Willem Zuidema](https://staff.fnwi.uva.nl/w.zuidema/), and [Grzegorz Chrupała](https://grzegorz.chrupala.me/).
+I'm a final-year __PhD__ candidate at the Department of [CSAI](https://www.tilburguniversity.edu/about/schools/tshd/departments/dca) at [Tilburg University](https://www.tilburguniversity.edu/). I'm part of the consortium project [InDeep: Interpreting Deep Learning Models for Text and Sound](https://projects.illc.uva.nl/indeep/), and happy to be supervised by [Afra Alishahi](http://afra.alishahi.name/), [Willem Zuidema](https://staff.fnwi.uva.nl/w.zuidema/), and [Grzegorz Chrupała](https://grzegorz.chrupala.me/).
 
 
 ## Research
