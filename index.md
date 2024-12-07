@@ -39,16 +39,17 @@ Before that, I got my Bachelor’s (2014-2019) in Computer Engineering from [Fer
 
 ## Services
 <!-- ## <span style="color:#424242">Services </span> -->
-* I'm co-organizing:
+* I co-organize:
+  * [BlackboxNLP](https://blackboxnlp.github.io/) Workshop (2023, 2024, 2025)
   * [InDeep Journal Club](https://projects.illc.uva.nl/indeep/events/journal-club/) (since 2022)
-  * [BlackboxNLP](https://blackboxnlp.github.io/) Workshop (2023-2025)
-* I co-offered a tutorial at EACL 2024 conference
-* I reviewed for the following conferences: EMNLP (2022, 2023), ACL 2023, EACL 2023, ACL Rolling Review (since 2022)
+* I co-offered a [tutorial](https://projects.illc.uva.nl/indeep/tutorial/) on interpretability at [EACL 2024](https://2024.eacl.org/program/tutorials/) conference
+* I reviewed for the following CL conferences: EMNLP (2022, 2023), ACL 2023, EACL 2023, ACL Rolling Review (since 2022)
 
 ## News 
 <!-- ## <span style="color:#424242">News and Activities </span> -->
+* __Dec 2024__: <span class="emoji">📺</span> A series of short videos on Transformer Interpretability available on [[YouTube](https://youtu.be/JPOBPY-ndfk?si=vQ2JdME8oo_6iFCU)]!
 * __Oct 2024__: Check out our new preprint: [Disentangling Textual and Acoustic Features of Neural Speech Representations](https://arxiv.org/abs/2410.03037)
-* __Sep 2024__: A new paper accepted to BlackboxNLP 2024: [How Language Models Prioritize Contextual Grammatical Cues?](https://arxiv.org/abs/2410.03447)
+<!-- * __Sep 2024__: A new paper accepted to BlackboxNLP 2024: [How Language Models Prioritize Contextual Grammatical Cues?](https://arxiv.org/abs/2410.03447) -->
 <!-- * __Apr 2024__: I'll run for Spierfonds to raise money for research on muscular diseases. Your donation [here](https://www.spieractie.nl/fundraisers/hosein-mohebbi) would greatly please me! -->
 * __Mar 2024__: <span class="emoji">🚀</span> Materials (slides, notebooks, etc.) for [EACL 2024](https://2024.eacl.org/program/tutorials/) tutorial on "Transformer-specific Interpretability" are available [here](https://github.com/interpretingdl/eacl2024_transformer_interpretability_tutorial).
 <!--* __Mar 2024__: [DecoderLens](https://arxiv.org/abs/2310.03686) has been accepted to findings of [NAACL 2024](https://2024.naacl.org/). -->
@@ -57,7 +58,7 @@ Before that, I got my Bachelor’s (2014-2019) in Computer Engineering from [Fer
 <!-- * __Oct 2023__: New [paper](https://arxiv.org/abs/2310.09925) on model interpretability for spoken language accepted to [EMNLP'23](https://2023.emnlp.org/) main! -->
 <!-- * __Jun 2023__: Invited talk on "Context Mixing in Transformers" at [GroNLP](https://www.rug.nl/research/clcg/research/cl/), University of Groningen. -->
 <!-- * __May 2023__: Gave a guest lecture on Transformers to an undergraduate CL course at Tilburg University. -->
-* __Mar 2023__: New blog [post](https://hmohebbi.github.io/blog/value-zeroing): A few thoughts on why Value Zeroing. 
+* __Mar 2023__: Blog [Post](https://hmohebbi.github.io/blog/value-zeroing): A few thoughts on why Value Zeroing. 
 <!-- * __Jan 2023__: [Value Zeroing](https://arxiv.org/abs/2301.12971) is out, a new interpretability method customized for Transformers (accepted to [EACL'23](https://2023.eacl.org/) main conference).  -->
 <!-- * __Jan 2023__: Presented a poster at [ALiAS'23](https://staff.fnwi.uva.nl/w.zuidema/alias-2023/).  -->
 <!-- * __Dec 2022__: [BlackboxNLP](https://blackboxnlp.github.io/) will be back in 2023 at EMNLP! Happy to be serving as a co-organizer.  -->
