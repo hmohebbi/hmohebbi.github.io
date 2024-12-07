@@ -47,7 +47,7 @@ Before that, I got my Bachelor’s (2014-2019) in Computer Engineering from [Fer
 
 ## News 
 <!-- ## <span style="color:#424242">News and Activities </span> -->
-* __Dec 2024__: <span class="emoji">📺</span> A series of short videos on Transformer Interpretability available on [[YouTube](https://youtu.be/JPOBPY-ndfk?si=vQ2JdME8oo_6iFCU)]!
+* __Dec 2024__: <span class="emoji">📺</span> A series of short videos on Transformer Interpretability available on [YouTube](https://youtu.be/JPOBPY-ndfk?si=vQ2JdME8oo_6iFCU)!
 * __Oct 2024__: Check out our new preprint: [Disentangling Textual and Acoustic Features of Neural Speech Representations](https://arxiv.org/abs/2410.03037)
 <!-- * __Sep 2024__: A new paper accepted to BlackboxNLP 2024: [How Language Models Prioritize Contextual Grammatical Cues?](https://arxiv.org/abs/2410.03447) -->
 <!-- * __Apr 2024__: I'll run for Spierfonds to raise money for research on muscular diseases. Your donation [here](https://www.spieractie.nl/fundraisers/hosein-mohebbi) would greatly please me! -->
