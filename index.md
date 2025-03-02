@@ -22,10 +22,10 @@ layout: default
 
 Hi there!
 
-I'm a final-year __PhD__ candidate at the Department of [CSAI](https://www.tilburguniversity.edu/about/schools/tshd/departments/dca) at [Tilburg University](https://www.tilburguniversity.edu/). I'm part of the consortium project [InDeep: Interpreting Deep Learning Models for Text and Sound](https://projects.illc.uva.nl/indeep/), and happy to be supervised by [Afra Alishahi](http://afra.alishahi.name/), [Willem Zuidema](https://staff.fnwi.uva.nl/w.zuidema/), and [Grzegorz Chrupała](https://grzegorz.chrupala.me/).
+I'm a final-year PhD candidate at the Department of [CSAI](https://www.tilburguniversity.edu/about/schools/tshd/departments/dca) at [Tilburg University](https://www.tilburguniversity.edu/), the Netherlands. I'm part of the consortium project [InDeep: Interpreting Deep Learning Models for Text and Sound](https://projects.illc.uva.nl/indeep/), and happy to be supervised by [Afra Alishahi](http://afra.alishahi.name/), [Willem Zuidema](https://staff.fnwi.uva.nl/w.zuidema/), and [Grzegorz Chrupała](https://grzegorz.chrupala.me/).
 
 
-## Research
+
 My research focuses on __analyzing and interpreting deep neural models of language__ (written or spoken) by treating them as mathematical functions. I try to develop analysis methods that can faithfully elucidate the interplay and flow of information within neural networks.
 
 ## Background
@@ -37,15 +37,22 @@ I completed my Master’s (2019-2021) in Artificial Intelligence at [Iran Univer
 Before that, I got my Bachelor’s (2014-2019) in Computer Engineering from [Ferdowsi University of Mashhad](https://en.um.ac.ir/). During that, I was working under the supervision of [Ahad Harati](http://a.harati.profcms.um.ac.ir/) as a team member of the Nexus RoboCup Simulation Team. 
 
 
-## Services
+## Public Activities 
 <!-- ## <span style="color:#424242">Services </span> -->
-* I co-organize:
-  * [BlackboxNLP](https://blackboxnlp.github.io/) Workshop (2023, 2024, 2025)
-  * [InDeep Journal Club](https://projects.illc.uva.nl/indeep/events/journal-club/) (since 2022)
-* I co-offered a [tutorial](https://projects.illc.uva.nl/indeep/tutorial/) on interpretability at [EACL 2024](https://2024.eacl.org/program/tutorials/) conference
-* I reviewed for the following CL conferences: EMNLP (2022, 2023), ACL 2023, EACL 2023, ACL Rolling Review (since 2022)
+* Workshop Organizer
+  * [BlackboxNLP](https://blackboxnlp.github.io/) (co-located with EMNLP 2023, 2024, 2025)
+* Tutorial Instructor
+  * Tutorial on [_"Transformer-specific Interpretability"_](https://projects.illc.uva.nl/indeep/tutorial/) at [EACL 2024](https://2024.eacl.org/program/tutorials/) conference
+* Area Chair
+  * _"Interpretability and Analysis of Models for NLP"_ track for [ACL ARR](https://aclrollingreview.org/) 2025 
+  * _"Speech Recognition, Text-to-Speech and Spoken Language Understanding"_ track for [ACL ARR](https://aclrollingreview.org/) 2025 
+* Reviewer
+  * Conferences: EMNLP (2022, 2023), ACL 2023, EACL 2023, ACL Rolling Review (2022, 2023)
+* Others
+  * I organized [InDeep Journal Club](https://projects.illc.uva.nl/indeep/events/journal-club/) (2022-2024)
 
-## News 
+
+## Highlighted news
 <!-- ## <span style="color:#424242">News and Activities </span> -->
 * __Dec 2024__: <span class="emoji">📺</span> A series of short videos on Transformer Interpretability available on [YouTube](https://youtu.be/JPOBPY-ndfk?si=vQ2JdME8oo_6iFCU)!
 * __Oct 2024__: Check out our new preprint: [Disentangling Textual and Acoustic Features of Neural Speech Representations](https://arxiv.org/abs/2410.03037)
