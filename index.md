@@ -26,7 +26,8 @@ I'm a final-year PhD candidate at the Department of [CSAI](https://www.tilburgun
 
 
 
-My research focuses on __analyzing and interpreting deep neural models of language__ (written or spoken) by treating them as mathematical functions. I try to develop analysis methods that can faithfully elucidate the interplay and flow of information within neural networks.
+<!-- My research focuses on __analyzing and interpreting deep neural models of language__ (written or spoken) by treating them as mathematical functions. I try to develop analysis methods that can faithfully elucidate the interplay and flow of information within neural networks. -->
+My research focuses on __interpreting deep neural language models__ (both written and spoken). I try to develop analysis methods to trace information flow and contextual interactions within these models, aiming to understand their inner workings and make that understanding directly useful for something such as improving model efficiency, controllability, and safety.
 
 ## Background
 <!-- ## <span style="color:#424242">Background </span> -->
@@ -42,18 +43,21 @@ Before that, I got my Bachelor’s (2014-2019) in Computer Engineering from [Fer
 * Workshop Organizer
   * [BlackboxNLP](https://blackboxnlp.github.io/) (co-located with EMNLP 2023, 2024, 2025)
 * Tutorial Instructor
+  * <span class="emoji">💥</span>__Upcoming__ Tutorial on _"Interpretability Techniques for Speech Models"_ at [Interspeech 2025](https://www.interspeech2025.org/tutorials) conference
   * Tutorial on [_"Transformer-specific Interpretability"_](https://projects.illc.uva.nl/indeep/tutorial/) at [EACL 2024](https://2024.eacl.org/program/tutorials/) conference
-* Area Chair
+* Area Chair / meta-reviewer
   * _"Interpretability and Analysis of Models for NLP"_ track for [ACL ARR](https://aclrollingreview.org/) 2025 
   * _"Speech Recognition, Text-to-Speech and Spoken Language Understanding"_ track for [ACL ARR](https://aclrollingreview.org/) 2025 
 * Reviewer
   * Conferences: EMNLP (2022, 2023), ACL 2023, EACL 2023, ACL Rolling Review (2022, 2023)
+  * Workshops: Actionable Interpretability (ICML 2025) 
 * Others
   * I organized [InDeep Journal Club](https://projects.illc.uva.nl/indeep/events/journal-club/) (2022-2024)
 
 
 ## Highlighted news
 <!-- ## <span style="color:#424242">News and Activities </span> -->
+* __May 2025__: Two accepted papers to Interspeech: [language-specific pretraining (Wav2Vec2-NL)](), and [on the reliability of feature attribution for speech](https://arxiv.org/abs/2505.16406)
 * __Dec 2024__: <span class="emoji">📺</span> A series of short videos on Transformer Interpretability available on [YouTube](https://youtu.be/JPOBPY-ndfk?si=vQ2JdME8oo_6iFCU)!
 * __Oct 2024__: Check out our new preprint: [Disentangling Textual and Acoustic Features of Neural Speech Representations](https://arxiv.org/abs/2410.03037)
 <!-- * __Sep 2024__: A new paper accepted to BlackboxNLP 2024: [How Language Models Prioritize Contextual Grammatical Cues?](https://arxiv.org/abs/2410.03447) -->

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Teaching
+title: Talks & Teaching
 permalink: /teaching/
 ---
 

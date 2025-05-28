@@ -15,6 +15,22 @@ permalink: /publications/
 </ui>
 
 <ui>
+<b>What Do Self-supervised Speech Models Know about Dutch? Analyzing Advantages of Language-specific Pretraining</b>
+<br>Marianne de Heer Kloots, Hosein Mohebbi, Charlotte Pouw, Gaofei Shen, Willem Zuidema, Martijn Bentum<br>
+<i>In Proceedings of Interspeech</i> 2025<br>
+<a href="" target="_blank">paper</a> | <a href="" target="_blank">checkpoints</a>
+<br><br>
+</ui>
+
+<ui>
+<b>On the Reliability of Feature Attribution Methods for Speech Classification</b>
+<br>Gaofei Shen, Hosein Mohebbi, Arianna Bisazza, Afra Alishahi, Grzegorz Chrupała<br>
+<i>In Proceedings of Interspeech</i> 2025<br>
+<a href="https://arxiv.org/abs/2505.16406" target="_blank">paper</a>
+<br><br>
+</ui>
+
+<ui>
 <b>How Language Models Prioritize Contextual Grammatical Cues?</b>
 <br>Hamidreza Amirzadeh, Afra Alishahi, Hosein Mohebbi<br>
 <i>In Proceedings of BlackboxNLP</i> 2024<br>
