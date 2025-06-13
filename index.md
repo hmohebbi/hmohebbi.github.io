@@ -43,7 +43,7 @@ Before that, I got my Bachelor’s (2014-2019) in Computer Engineering from [Fer
 * Workshop Organizer
   * [BlackboxNLP](https://blackboxnlp.github.io/) (co-located with EMNLP 2023, 2024, 2025)
 * Tutorial Instructor
-  * <span class="emoji">💥</span>__Upcoming__ Tutorial on _"Interpretability Techniques for Speech Models"_ at [Interspeech 2025](https://www.interspeech2025.org/tutorials) conference
+  * <span class="emoji">💥</span>__Upcoming__ Tutorial on [_"Interpretability Techniques for Speech Models"_](https://interpretingdl.github.io/speech-interpretability-tutorial/) at [Interspeech 2025](https://www.interspeech2025.org/tutorials) conference
   * Tutorial on [_"Transformer-specific Interpretability"_](https://projects.illc.uva.nl/indeep/tutorial/) at [EACL 2024](https://2024.eacl.org/program/tutorials/) conference
 * Area Chair / meta-reviewer
   * _"Interpretability and Analysis of Models for NLP"_ track for [ACL ARR](https://aclrollingreview.org/) 2025 
@@ -57,7 +57,7 @@ Before that, I got my Bachelor’s (2014-2019) in Computer Engineering from [Fer
 
 ## Highlighted news
 <!-- ## <span style="color:#424242">News and Activities </span> -->
-* __May 2025__: Two accepted papers to Interspeech 2025: [language-specific pretraining (Wav2Vec2-NL)](), and [on the reliability of feature attribution for speech](https://arxiv.org/abs/2505.16406)
+* __May 2025__: Two accepted papers to Interspeech 2025: [language-specific pretraining (Wav2Vec2-NL)](https://arxiv.org/abs/2506.00981), and [on the reliability of feature attribution for speech](https://arxiv.org/abs/2505.16406)
 * __Dec 2024__: <span class="emoji">📺</span> A series of short videos on Transformer Interpretability available on [YouTube](https://youtu.be/JPOBPY-ndfk?si=vQ2JdME8oo_6iFCU)!
 * __Oct 2024__: Check out our new preprint: [Disentangling Textual and Acoustic Features of Neural Speech Representations](https://arxiv.org/abs/2410.03037)
 <!-- * __Sep 2024__: A new paper accepted to BlackboxNLP 2024: [How Language Models Prioritize Contextual Grammatical Cues?](https://arxiv.org/abs/2410.03447) -->
