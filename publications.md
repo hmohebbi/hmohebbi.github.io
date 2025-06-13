@@ -18,7 +18,7 @@ permalink: /publications/
 <b>What Do Self-supervised Speech Models Know about Dutch? Analyzing Advantages of Language-specific Pretraining</b>
 <br>Marianne de Heer Kloots, Hosein Mohebbi, Charlotte Pouw, Gaofei Shen, Willem Zuidema, Martijn Bentum<br>
 <i>In Proceedings of Interspeech</i> 2025<br>
-<a href="" target="_blank">paper</a> | <a href="" target="_blank">checkpoints</a>
+<a href="https://arxiv.org/abs/2506.00981" target="_blank">paper</a> | <a href="" target="_blank">model checkpoints</a>
 <br><br>
 </ui>
 
