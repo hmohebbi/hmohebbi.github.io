@@ -6,10 +6,12 @@ permalink: /teaching/
 
 
 ## Tutorials
+* <span class="emoji">💥</span>__Upcoming__: _"Interpretability Techniques for Speech Models"_ at Interspeech 2025 conference, in Rotterdam. [[materials](https://interpretingdl.github.io/speech-interpretability-tutorial/)]
+* A hands-on tutorial on _"NLP & LLMs"_ for Dutch high school students, as part of their preparation for the 2nd International Olympiad in Artificial Intelligence ([IOAI](https://ioai-official.org/)).
 * A series of short educational videos on how to open the Black Box of Large Language Models:
-    * Why it is crucial to track how Transformers mix information [[YouTube](https://youtu.be/8Nj1xiV-hA0?si=mPvH9Pmt4HRvUyzF)]
-    * How to best measure context-mixing in Transformers [[YouTube](https://youtu.be/JPOBPY-ndfk?si=vQ2JdME8oo_6iFCU)]
-* _"Transformer-specific Interpretability"_, at EACL 2024 conference, in Malta [[materials](https://github.com/interpretingdl/eacl2024_transformer_interpretability_tutorial)]
+    * Why it is crucial to track how Transformers mix information? [[YouTube](https://youtu.be/8Nj1xiV-hA0?si=mPvH9Pmt4HRvUyzF)]
+    * How to best measure context-mixing in Transformers? [[YouTube](https://youtu.be/JPOBPY-ndfk?si=vQ2JdME8oo_6iFCU)]
+* _"Transformer-specific Interpretability"_, at EACL 2024 conference, in Malta. [[materials](https://github.com/interpretingdl/eacl2024_transformer_interpretability_tutorial)]
 
 
 ## Invited Talks
