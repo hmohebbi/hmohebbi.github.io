@@ -10,7 +10,7 @@ permalink: /publications/
 <b>Disentangling Textual and Acoustic Features of Neural Speech Representations</b>
 <br>Hosein Mohebbi, Grzegorz Chrupała, Willem Zuidema, Afra Alishahi, Ivan Titov<br>
 <i>preprint</i> 2024<br>
-<a href="https://arxiv.org/abs/2410.03037" target="_blank">paper</a> | <a href="https://github.com/hmohebbi/disentangling_representations" target="_blank">code</a> 
+<a href="https://arxiv.org/abs/2410.03037" target="_blank">paper</a> | <a href="https://github.com/hmohebbi/disentangling_representations" target="_blank">code</a> | <a href="https://youtu.be/QkDFCOf2tXM" target="_blank">video</a> 
 <br><br>
 </ui>
 
@@ -51,7 +51,7 @@ permalink: /publications/
 <br>Hosein Mohebbi, Grzegorz Chrupała, Willem Zuidema, Afra Alishahi<br>
 <span class="emoji">🏅</span> <b>Outstanding Paper Award</b><br>
 <i>In Proceedings of EMNLP</i> 2023<br>
-<a href="https://aclanthology.org/2023.emnlp-main.513/" target="_blank">paper</a> | <a href="https://github.com/hmohebbi/ContextMixingASR" target="_blank">code</a>
+<a href="https://aclanthology.org/2023.emnlp-main.513/" target="_blank">paper</a> | <a href="https://huggingface.co/datasets/hosein-m/french_homophone_asr" target="_blank">data</a> | <a href="https://github.com/hmohebbi/ContextMixingASR" target="_blank">code</a>
 <br><br>
 </ui>
 
