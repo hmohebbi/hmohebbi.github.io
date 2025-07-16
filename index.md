@@ -46,8 +46,8 @@ Before that, I got my Bachelor’s (2014-2019) in Computer Engineering from [Fer
   * <span class="emoji">💥</span>__Upcoming__ Tutorial on [_"Interpretability Techniques for Speech Models"_](https://interpretingdl.github.io/speech-interpretability-tutorial/) at [Interspeech 2025](https://www.interspeech2025.org/tutorials) conference
   * Tutorial on [_"Transformer-specific Interpretability"_](https://projects.illc.uva.nl/indeep/tutorial/) at [EACL 2024](https://2024.eacl.org/program/tutorials/) conference
 * Area Chair / meta-reviewer
-  * _"Interpretability and Analysis of Models for NLP"_ track for [ACL ARR](https://aclrollingreview.org/) 2025 
-  * _"Speech Recognition, Text-to-Speech and Spoken Language Understanding"_ track for [ACL ARR](https://aclrollingreview.org/) 2025 
+  * _"Interpretability and Analysis of Models for NLP"_ track for ACL Rolling Review 2025 
+  * _"Speech Recognition, Text-to-Speech and Spoken Language Understanding"_ track for ACL Rolling Review 2025 
 * Reviewer
   * Conferences: EMNLP (2022, 2023), ACL 2023, EACL 2023, ACL Rolling Review (2022, 2023)
   * Workshops: Actionable Interpretability (ICML 2025) 
