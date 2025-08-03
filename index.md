@@ -47,8 +47,10 @@ Before that, I got my Bachelor’s (2014-2019) in Computer Engineering from [Fer
   * Tutorial on [_"Transformer-specific Interpretability"_](https://projects.illc.uva.nl/indeep/tutorial/) at [EACL 2024](https://2024.eacl.org/program/tutorials/) conference
 * Area Chair / meta-reviewer
   * _"Interpretability and Analysis of Models for NLP"_ track for ACL Rolling Review 2025 
-  * _"Speech Recognition, Text-to-Speech and Spoken Language Understanding"_ track for ACL Rolling Review 2025 
-* Reviewer
+  * _"Speech Recognition, Text-to-Speech and Spoken Language Understanding"_ track for ACL Rolling Review 2025
+* Session Chair
+  * _Speech Processing_ oral session at ACL 2025, Vienna
+* Program Committee / Reviewer
   * Conferences: EMNLP (2022, 2023), ACL 2023, EACL 2023, ACL Rolling Review (2022, 2023)
   * Workshops: Actionable Interpretability (ICML 2025) 
 * Others
