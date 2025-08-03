@@ -27,7 +27,7 @@ I'm a final-year PhD candidate at the Department of [CSAI](https://www.tilburgun
 
 
 <!-- My research focuses on __analyzing and interpreting deep neural models of language__ (written or spoken) by treating them as mathematical functions. I try to develop analysis methods that can faithfully elucidate the interplay and flow of information within neural networks. -->
-My research focuses on __interpreting deep neural language models__ (both written and spoken). I try to develop analysis methods to trace information flow and contextual interactions within these models, aiming to understand their inner workings and make that understanding useful for something such as improving model efficiency, controllability, and safety.
+My research focuses on __interpreting deep neural language models__ (for both text and speech). I try to develop analysis methods to understand the inner workings of language models and make that understanding useful for something (e.g., accelerating their inference time, or improving their controllability).
 
 ## Background
 <!-- ## <span style="color:#424242">Background </span> -->
