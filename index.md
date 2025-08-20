@@ -83,5 +83,5 @@ __Mar 2024__: [DecoderLens](https://arxiv.org/abs/2310.03686) has been accepted 
 * __Sep 2021__: <span class="emoji">🎓</span> Successfully defended my Master's thesis titled "Interpretability and Transferability of Linguistic Knowledge in Pre-trained Language Models".
 * __Sep 2021__: Two papers accepted to [EMNLP'21](https://2021.emnlp.org/) (main conference and BlackboxNLP).
 * __Jun 2021__: Invited talk at Cambridge/Cardiff Workshop in Natural Language Processing.
-* __May 2021__: Gave a joint guest lecture, with [Ali](https://www.amodarressi.com/), on Interpretability to a graduate [NLP course](https://teias-courses.github.io/nlp99/) at Khatam University. \[[slides](https://drive.google.com/file/d/1cAzlIlbuVAFZXz3gaFGBTRZwjq-_V2lb/view?usp=sharing)\]
+<!--* __May 2021__: Gave a joint guest lecture, with [Ali](https://www.amodarressi.com/), on Interpretability to a graduate [NLP course](https://teias-courses.github.io/nlp99/) at Khatam University. \[[slides](https://drive.google.com/file/d/1cAzlIlbuVAFZXz3gaFGBTRZwjq-_V2lb/view?usp=sharing)\] -->
 * __Apr 2021__: Our pre-print intepretability work is ready! [Exploring the Role of BERT Token Representations to Explain Sentence Probing Results](https://arxiv.org/abs/2104.01477). 
