@@ -43,7 +43,7 @@ Before that, I got my Bachelor’s (2014-2019) in Computer Engineering from [Fer
 * Workshop Organizer
   * [BlackboxNLP](https://blackboxnlp.github.io/) (co-located with EMNLP 2023, 2024, 2025)
 * Tutorial Instructor
-  * <span class="emoji">💥</span>__Upcoming__ Tutorial on [_"Interpretability Techniques for Speech Models"_](https://interpretingdl.github.io/speech-interpretability-tutorial/) at [Interspeech 2025](https://www.interspeech2025.org/tutorials) conference
+  * Tutorial on [_"Interpretability Techniques for Speech Models"_](https://interpretingdl.github.io/speech-interpretability-tutorial/) at [Interspeech 2025](https://www.interspeech2025.org/tutorials) conference
   * Tutorial on [_"Transformer-specific Interpretability"_](https://projects.illc.uva.nl/indeep/tutorial/) at [EACL 2024](https://2024.eacl.org/program/tutorials/) conference
 * Area Chair / Meta-reviewer
   * _"Interpretability and Analysis of Models for NLP"_ track for ACL Rolling Review 2025 
@@ -57,30 +57,31 @@ Before that, I got my Bachelor’s (2014-2019) in Computer Engineering from [Fer
   * I organized [InDeep Journal Club](https://projects.illc.uva.nl/indeep/events/journal-club/) (2022-2024)
 
 
-## Highlighted news
+## News and Activities
 <!-- ## <span style="color:#424242">News and Activities </span> -->
+* __Mar 2024__: Materials (notebooks, slides, and reading list) for our [Interspeech 2025](https://www.interspeech2025.org/home) tutorial are available [here](https://interpretingdl.github.io/speech-interpretability-tutorial/interspeech2025/intro.html).
 * __May 2025__: Two accepted papers to Interspeech 2025: [language-specific pretraining (Wav2Vec2-NL)](https://arxiv.org/abs/2506.00981), and [on the reliability of feature attribution for speech](https://arxiv.org/abs/2505.16406)
 * __Dec 2024__: <span class="emoji">📺</span> A series of short videos on Transformer Interpretability available on [YouTube](https://youtu.be/JPOBPY-ndfk?si=vQ2JdME8oo_6iFCU)!
 * __Oct 2024__: Check out our new preprint: [Disentangling Textual and Acoustic Features of Neural Speech Representations](https://arxiv.org/abs/2410.03037)
 <!-- * __Sep 2024__: A new paper accepted to BlackboxNLP 2024: [How Language Models Prioritize Contextual Grammatical Cues?](https://arxiv.org/abs/2410.03447) -->
-<!-- * __Apr 2024__: I'll run for Spierfonds to raise money for research on muscular diseases. Your donation [here](https://www.spieractie.nl/fundraisers/hosein-mohebbi) would greatly please me! -->
+* __Apr 2024__: I'll run for Spierfonds to raise money for research on muscular diseases. Your donation [here](https://www.spieractie.nl/fundraisers/hosein-mohebbi) would greatly please me! -->
 * __Mar 2024__: Materials (slides, notebooks, etc.) for [EACL 2024](https://2024.eacl.org/program/tutorials/) tutorial on "Transformer-specific Interpretability" are available [here](https://github.com/interpretingdl/eacl2024_transformer_interpretability_tutorial).
-<!--* __Mar 2024__: [DecoderLens](https://arxiv.org/abs/2310.03686) has been accepted to findings of [NAACL 2024](https://2024.naacl.org/). -->
-<!-- * __Jan 2024__: Started a research visit at ILCC, University of Edinburgh. -->
+__Mar 2024__: [DecoderLens](https://arxiv.org/abs/2310.03686) has been accepted to findings of [NAACL 2024](https://2024.naacl.org/). -->
+* __Jan 2024__: Started a research visit at ILCC, University of Edinburgh. -->
 * __Dec 2023__: <span class="emoji">🏅</span> Got an Outstanding Paper Award for [Homophone Disambiguation Reveals Patterns of Context Mixing in Speech Transformers](https://aclanthology.org/2023.emnlp-main.513/) at EMNLP 2023!
-<!-- * __Oct 2023__: New [paper](https://arxiv.org/abs/2310.09925) on model interpretability for spoken language accepted to [EMNLP'23](https://2023.emnlp.org/) main! -->
-<!-- * __Jun 2023__: Invited talk on "Context Mixing in Transformers" at [GroNLP](https://www.rug.nl/research/clcg/research/cl/), University of Groningen. -->
-<!-- * __May 2023__: Gave a guest lecture on Transformers to an undergraduate CL course at Tilburg University. -->
+* __Oct 2023__: New [paper](https://arxiv.org/abs/2310.09925) on model interpretability for spoken language accepted to [EMNLP'23](https://2023.emnlp.org/) main! -->
+* __Jun 2023__: Invited talk at [GroNLP](https://www.rug.nl/research/clcg/research/cl/), University of Groningen. -->
+* __May 2023__: Gave a guest lecture on Transformers to an undergraduate CL course at Tilburg University. -->
 * __Mar 2023__: Blog [Post](https://hmohebbi.github.io/blog/value-zeroing): A few thoughts on why Value Zeroing. 
-<!-- * __Jan 2023__: [Value Zeroing](https://arxiv.org/abs/2301.12971) is out, a new interpretability method customized for Transformers (accepted to [EACL'23](https://2023.eacl.org/) main conference).  -->
+* __Jan 2023__: [Value Zeroing](https://arxiv.org/abs/2301.12971) is out, a new interpretability method customized for Transformers (accepted to [EACL'23](https://2023.eacl.org/) main conference).  -->
 <!-- * __Jan 2023__: Presented a poster at [ALiAS'23](https://staff.fnwi.uva.nl/w.zuidema/alias-2023/).  -->
-<!-- * __Dec 2022__: [BlackboxNLP](https://blackboxnlp.github.io/) will be back in 2023 at EMNLP! Happy to be serving as a co-organizer.  -->
-<!-- * __Sep 2022__: Gave a guest lecture on "Interpretability of Transformers" to a graduate Advanced Deep Learning course at Tilburg University. \[[slides](https://drive.google.com/file/d/1Z39YSfzpzzkqAiMxVdW1nOkudfYVgj_y/view?usp=sharing)\] -->
-<!-- * __May 2022__: Gave a short talk at [InDeep](https://projects.illc.uva.nl/indeep/) workshop at the University of Amsterdam. -->
-<!-- * __Feb 2022__: [AdapLeR](https://aclanthology.org/2022.acl-long.1/) is out, up to 22x infrence speedup while retaining performance ([ACL'22](https://www.2022.aclweb.org/) main).
-<!-- * __Nov 2021__: Moved to the Netherlands to join the consortium project: [InDeep](https://interpretingdl.github.io/). -->
-<!-- * __Sep 2021__: <span class="emoji">🎓</span> Successfully defended my Master's thesis titled "Interpretability and Transferability of Linguistic Knowledge in Pre-trained Language Models". -->
-<!-- * __Sep 2021__: Two papers accepted to [EMNLP'21](https://2021.emnlp.org/) (main conference and BlackboxNLP). -->
-<!-- * __Jun 2021__: Invited talk at Cambridge/Cardiff Workshop in Natural Language Processing. -->
-<!-- * __May 2021__: Gave a joint guest lecture, with [Ali](https://www.amodarressi.com/), on Interpretability to a graduate [NLP course](https://teias-courses.github.io/nlp99/) at Khatam University. \[[slides](https://drive.google.com/file/d/1cAzlIlbuVAFZXz3gaFGBTRZwjq-_V2lb/view?usp=sharing)\] -->
-<!-- * __Apr 2021__: Our pre-print intepretability work is ready! [Exploring the Role of BERT Token Representations to Explain Sentence Probing Results](https://arxiv.org/abs/2104.01477). -->
+* __Dec 2022__: [BlackboxNLP](https://blackboxnlp.github.io/) will be back in 2023 at EMNLP! Happy to be serving as a co-organizer.  -->
+* __Sep 2022__: Gave a guest lecture on "Interpretability of Transformers" to a graduate Advanced Deep Learning course at Tilburg University. \[[slides](https://drive.google.com/file/d/1Z39YSfzpzzkqAiMxVdW1nOkudfYVgj_y/view?usp=sharing)\] -->
+* __May 2022__: Gave a short talk at [InDeep](https://projects.illc.uva.nl/indeep/) workshop at ILLC, University of Amsterdam. -->
+* __Feb 2022__: [AdapLeR](https://aclanthology.org/2022.acl-long.1/) is out, up to 22x infrence speedup while retaining performance ([ACL'22](https://www.2022.aclweb.org/) main).
+* __Nov 2021__: Moved to the Netherlands to join the consortium project: [InDeep](https://interpretingdl.github.io/). -->
+* __Sep 2021__: <span class="emoji">🎓</span> Successfully defended my Master's thesis titled "Interpretability and Transferability of Linguistic Knowledge in Pre-trained Language Models". -->
+* __Sep 2021__: Two papers accepted to [EMNLP'21](https://2021.emnlp.org/) (main conference and BlackboxNLP). -->
+* __Jun 2021__: Invited talk at Cambridge/Cardiff Workshop in Natural Language Processing. -->
+* __May 2021__: Gave a joint guest lecture, with [Ali](https://www.amodarressi.com/), on Interpretability to a graduate [NLP course](https://teias-courses.github.io/nlp99/) at Khatam University. \[[slides](https://drive.google.com/file/d/1cAzlIlbuVAFZXz3gaFGBTRZwjq-_V2lb/view?usp=sharing)\] -->
+* __Apr 2021__: Our pre-print intepretability work is ready! [Exploring the Role of BERT Token Representations to Explain Sentence Probing Results](https://arxiv.org/abs/2104.01477). -->
