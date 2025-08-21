@@ -66,7 +66,7 @@ Before that, I got my Bachelor’s (2014-2019) in Computer Engineering from [Fer
 * __Sep 2024__: A new paper accepted to BlackboxNLP 2024: [How Language Models Prioritize Contextual Grammatical Cues?](https://arxiv.org/abs/2410.03447) 
 * __Apr 2024__: I'll run for Spierfonds to raise money for research on muscular diseases. Your donation [here](https://www.spieractie.nl/fundraisers/hosein-mohebbi) would greatly please me! 
 * __Mar 2024__: Materials (slides, notebooks, etc.) for [EACL 2024](https://2024.eacl.org/program/tutorials/) tutorial on "Transformer-specific Interpretability" are available [here](https://github.com/interpretingdl/eacl2024_transformer_interpretability_tutorial).
-__Mar 2024__: [DecoderLens](https://arxiv.org/abs/2310.03686) has been accepted to findings of [NAACL 2024](https://2024.naacl.org/).
+* __Mar 2024__: [DecoderLens](https://arxiv.org/abs/2310.03686) has been accepted to findings of [NAACL 2024](https://2024.naacl.org/).
 * __Jan 2024__: Started a research visit at ILCC, University of Edinburgh.
 * __Dec 2023__: <span class="emoji">🏅</span> Got an Outstanding Paper Award for [Homophone Disambiguation Reveals Patterns of Context Mixing in Speech Transformers](https://aclanthology.org/2023.emnlp-main.513/) at EMNLP 2023!
 * __Oct 2023__: New [paper](https://arxiv.org/abs/2310.09925) on model interpretability for spoken language accepted to [EMNLP'23](https://2023.emnlp.org/) main! 
