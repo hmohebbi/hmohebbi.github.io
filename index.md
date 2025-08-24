@@ -59,7 +59,7 @@ Before that, I got my Bachelor’s (2014-2019) in Computer Engineering from [Fer
 
 ## News and Activities
 <!-- ## <span style="color:#424242">News and Activities </span> -->
-* __Mar 2024__: Materials (notebooks, slides, and reading list) for our [Interspeech 2025](https://www.interspeech2025.org/home) tutorial are available [here](https://interpretingdl.github.io/speech-interpretability-tutorial/interspeech2025/intro.html).
+* __Aug 2025__: Materials (notebooks, slides, and reading list) for our [Interspeech 2025](https://www.interspeech2025.org/home) tutorial available [here](https://interpretingdl.github.io/speech-interpretability-tutorial/interspeech2025/intro.html).
 * __May 2025__: Two accepted papers to Interspeech 2025: [language-specific pretraining (Wav2Vec2-NL)](https://arxiv.org/abs/2506.00981), and [on the reliability of feature attribution for speech](https://arxiv.org/abs/2505.16406)
 * __Dec 2024__: <span class="emoji">📺</span> A series of short videos on Transformer Interpretability available on [YouTube](https://youtu.be/JPOBPY-ndfk?si=vQ2JdME8oo_6iFCU)!
 * __Oct 2024__: Check out our new preprint: [Disentangling Textual and Acoustic Features of Neural Speech Representations](https://arxiv.org/abs/2410.03037)
@@ -80,7 +80,7 @@ __Mar 2023__: Blog [Post](https://hmohebbi.github.io/blog/value-zeroing): A few 
 <!--* __May 2022__: Gave a short talk at [InDeep](https://projects.illc.uva.nl/indeep/) workshop at ILLC, University of Amsterdam. -->
 <!--* __Feb 2022__: [AdapLeR](https://aclanthology.org/2022.acl-long.1/) is out, up to 22x infrence speedup while retaining performance ([ACL'22](https://www.2022.aclweb.org/) main). -->
 <!--* __Nov 2021__: Moved to the Netherlands to join the consortium project: [InDeep](https://interpretingdl.github.io/). -->
-* __Sep 2021__: <span class="emoji">🎓</span> Successfully defended my Master's thesis titled "Interpretability and Transferability of Linguistic Knowledge in Pre-trained Language Models".
+<!--* __Sep 2021__: <span class="emoji">🎓</span> Successfully defended my Master's thesis titled "Interpretability and Transferability of Linguistic Knowledge in Pre-trained Language Models". -->
 <!--* __Sep 2021__: Two papers accepted to [EMNLP'21](https://2021.emnlp.org/) (main conference and BlackboxNLP). -->
 <!--* __Jun 2021__: Invited talk at Cambridge/Cardiff Workshop in Natural Language Processing.-->
 <!--* __May 2021__: Gave a joint guest lecture, with [Ali](https://www.amodarressi.com/), on Interpretability to a graduate [NLP course](https://teias-courses.github.io/nlp99/) at Khatam University. \[[slides](https://drive.google.com/file/d/1cAzlIlbuVAFZXz3gaFGBTRZwjq-_V2lb/view?usp=sharing)\] -->
