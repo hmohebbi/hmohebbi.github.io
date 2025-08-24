@@ -57,7 +57,7 @@ Before that, I got my Bachelor’s (2014-2019) in Computer Engineering from [Fer
   * I organized [InDeep Journal Club](https://projects.illc.uva.nl/indeep/events/journal-club/) (2022-2024)
 
 
-## News and Activities
+## News 
 <!-- ## <span style="color:#424242">News and Activities </span> -->
 * __Aug 2025__: Materials (notebooks, slides, and reading list) for our [Interspeech 2025](https://www.interspeech2025.org/home) tutorial available [here](https://interpretingdl.github.io/speech-interpretability-tutorial/interspeech2025/intro.html).
 * __May 2025__: Two accepted papers to Interspeech 2025: [language-specific pretraining (Wav2Vec2-NL)](https://arxiv.org/abs/2506.00981), and [on the reliability of feature attribution for speech](https://arxiv.org/abs/2505.16406)
