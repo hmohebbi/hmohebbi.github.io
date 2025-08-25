@@ -59,7 +59,7 @@ Before that, I got my Bachelor’s (2014-2019) in Computer Engineering from [Fer
 
 ## News 
 <!-- ## <span style="color:#424242">News and Activities </span> -->
-* __Aug 2025__: Materials (notebooks, slides, and reading list) for our [Interspeech 2025](https://www.interspeech2025.org/home) tutorial available [here](https://interpretingdl.github.io/speech-interpretability-tutorial/interspeech2025/intro.html).
+* __Aug 2025__: Materials (notebooks, slides, and reading list) for our [Interspeech 2025](https://www.interspeech2025.org/home) interpretability tutorial available [here](https://interpretingdl.github.io/speech-interpretability-tutorial/interspeech2025/intro.html).
 * __May 2025__: Two accepted papers to Interspeech 2025: [language-specific pretraining (Wav2Vec2-NL)](https://arxiv.org/abs/2506.00981), and [on the reliability of feature attribution for speech](https://arxiv.org/abs/2505.16406)
 * __Dec 2024__: <span class="emoji">📺</span> A series of short videos on Transformer Interpretability available on [YouTube](https://youtu.be/JPOBPY-ndfk?si=vQ2JdME8oo_6iFCU)!
 * __Oct 2024__: Check out our new preprint: [Disentangling Textual and Acoustic Features of Neural Speech Representations](https://arxiv.org/abs/2410.03037)
